@@ -1,0 +1,64 @@
+---
+layout: layouts/base.njk
+permalink: /index.html
+pageTitle: Home
+metaDescription: My thoughts about Christ, truth and morality
+bodyClass: home page
+---
+{% set homeScripture = scriptures[0] %}
+<section class="home-scripture-wrap">
+  <div class="home-scripture">
+    <span class="overlay"></span>
+    {% if homeScripture %}
+    <section class="home-scripture-content">
+      <figure>
+        <blockquote>{{ homeScripture.scripture | excerpt(220) | safe }} <span class="more tag"><a href="{{ homeScripture.url }}">Read On</a></span></blockquote>
+        <figcaption><span class="verse">{{ homeScripture.book }}&nbsp;{{ homeScripture.verse }}</span><span class="delimiter">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="/scripture/">More</a></figcaption>
+      </figure>
+    </section>
+    {% endif %}
+    <img src="/assets/images/scripture-banner-1.jpg" class="home-scripture-img" alt="">
+  </div>
+</section>
+<main class="content" role="main">
+  <div class="home-content">
+    <section class="home-blog">
+      <div class="home-blog-details">
+        <div class="home-blog-header">
+          <h2>Latest from the blog</h2>
+        </div>
+        <div class="home-blog-more tag">
+          <a href="/articles/">View All</a>
+        </div>
+      </div>
+      <section class="home-blog-excerpts">
+        {% for post in posts %}
+        {% if loop.index <= 6 %}
+        <article class="home-blog-excerpt-wrap">
+          <div class="home-blog-excerpt">
+            <a href="{{ post.url }}">
+              <img src="{{ post.featuredImage or '/assets/images/default.jpg' }}" alt="{{ post.title }}">
+            </a>
+            <div class="home-blog-excerpt-details">
+              <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+              {% set category = post | topCategory %}
+              <div class="meta">By <span class="author">{{ post.author }}</span> on <span class="category">{% if category %}<a href="{{ category.url }}">{{ category.name }}</a>{% endif %}</span></div>
+            </div>
+          </div>
+        </article>
+        {% endif %}
+        {% endfor %}
+      </section>
+    </section>
+    <section class="home-about">
+      <h2 class="break-header ct">Encouraging other women through Christ</h2>
+      <img src="/assets/images/kiddos.jpg" alt="My Kiddos" class="home-about-img">
+      <p>My passion is to encourage other woman and see their life transformed by Christ. I have always desired a community website, where I hear from my readers on what’s going on in their life and their personal story, it truly blesses my heart and increases my faith. I know lives are not transformed unless God is a part of the process, so when I witness or hear testimonies of lives that are changed I know it is a miracle, and I am thrilled to be a part of it.</p>
+      <ul class="button-list">
+        <li><a href="/about/" class="ghost-button">Learn More</a></li>
+        <li class="option"><span>or</span></li>
+        <li><a href="/contact/" class="ghost-button">Get In Touch</a></li>
+      </ul>
+    </section>
+  </div>
+</main>

@@ -1,0 +1,5 @@
+RewriteCond %{HTTP_HOST} ^pouredouthislove.andyhoule.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www.pouredouthislove.andyhoule.com$
+RewriteRule ^/?$ "http\:\/\/www\.pouredouthislove\.com" [R=301,L]
+#RewriteRule ^(.+)/$ http://www.pouredouthislove.com/$1 [R=301,L]
+

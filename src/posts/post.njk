@@ -1,0 +1,13 @@
+---
+pagination:
+  data: posts
+  size: 1
+  alias: post
+permalink: "{{ post.url | normalizeUrl }}index.html"
+layout: layouts/post.njk
+bodyClass: single single-post
+showFitvids: true
+eleventyComputed:
+  pageTitle: "{{ post.title }}"
+  metaDescription: "{{ post.excerpt }}"
+---

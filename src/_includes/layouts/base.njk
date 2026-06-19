@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if pageTitle %}{{ pageTitle }} | {% endif %}{{ wordpress.site.name }}</title>
+  <meta name="description" content="{{ metaDescription or wordpress.site.description }}">
+  <meta name="viewport" content="initial-scale=1">
+  <meta http-equiv="ClearType" content="true">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/assets/style.css">
+  {% if canonicalUrl %}
+  <link rel="canonical" href="{{ canonicalUrl }}">
+  {% endif %}
+</head>
+<body class="{{ bodyClass or '' }}" id="top">
+  <div class="condensed-primary-nav-wrap">
+    <div class="condensed-primary-nav-innerwrap">
+      <nav class="condensed-primary-nav">
+        <ul class="top-level">
+          <li>
+            <a href="/articles/">Articles</a>
+            <span class="submenu-toggle"></span>
+            <ul class="submenu">
+              {% for item in wordpress.site.articleTopics %}
+              <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% for item in wordpress.site.navigation %}
+          {% if item.label != 'Articles' %}
+          <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+
+  <div class="page-wrap">
+    <section class="header-and-main">
+      <header class="branding" role="banner">
+        <div class="row">
+          <section class="logo-and-primary-nav">
+            <div class="condensed-primary-nav-trigger condensed-trigger">
+              <a><span>Menu</span></a>
+            </div>
+            <div class="logo">
+              <h1><a href="/">{{ wordpress.site.name }}</a></h1>
+            </div>
+            <nav class="primary-nav">
+              <ul class="top-level">
+                {% for item in wordpress.site.articleTopics %}
+                <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+                {% endfor %}
+              </ul>
+            </nav>
+          </section>
+          <section class="utility-nav-and-social-nav-wrap">
+            <div class="utility-nav-and-social-nav">
+              <nav class="utility-nav">
+                <ul>
+                  <li class="subscribe-trigger"><a><span>Subscribe</span></a></li>
+                  <li class="search-trigger"><a><span>Search</span></a></li>
+                </ul>
+              </nav>
+              <nav class="social-nav">
+                <ul>
+                  <li class="pinterest"><a href="http://www.pinterest.com/pouredouthislov" target="_blank" rel="noreferrer"><span>Pinterest</span></a></li>
+                  <li class="facebook"><a href="https://www.facebook.com/pouredouthislove" target="_blank" rel="noreferrer"><span>Facebook</span></a></li>
+                  <li class="twitter"><a href="https://twitter.com/pouredouthislov" target="_blank" rel="noreferrer"><span>Twitter</span></a></li>
+                </ul>
+              </nav>
+            </div>
+          </section>
+        </div>
+      </header>
+      <section class="search-wrap utility-nav-dd-item">
+        <form class="search" action="/articles/" method="get">
+          <fieldset>
+            <input class="utility-nav-input search-input" type="text" name="q" value="Search is unavailable on the static site" onfocus="if(this.value=='Search is unavailable on the static site'){this.value='';}" onblur="if(this.value==''){this.value='Search is unavailable on the static site';}">
+            <button type="submit" class="utility-nav-submit search-submit">Go</button>
+          </fieldset>
+        </form>
+      </section>
+      <section class="subscribe-wrap utility-nav-dd-item">
+        <form action="//andyhoule.us1.list-manage.com/subscribe/post?u=38de58b429e8b6c55ddc30b7b&amp;id=d21fc47a77" method="post" class="validate" target="_blank" novalidate>
+          <fieldset>
+            <div class="mc-field-group">
+              <input type="email" name="EMAIL" class="utility-nav-input subscribe-input required email" value="name@youremail.com" onfocus="if(this.value=='name@youremail.com'){this.value='';}" onblur="if(this.value==''){this.value='name@youremail.com';}">
+            </div>
+            <div style="position:absolute;left:-5000px;">
+              <input type="text" name="b_38de58b429e8b6c55ddc30b7b_d21fc47a77" tabindex="-1" value="">
+            </div>
+            <button type="submit" class="utility-nav-submit subscribe-submit">Subscribe</button>
+          </fieldset>
+        </form>
+      </section>
+
+      {{ content | safe }}
+    </section>
+
+    <footer class="site-info" role="contentinfo">
+      <section class="footer-top-wrap">
+        <div class="footer-top">
+          <div class="footer-logo">
+            <a href="/">{{ wordpress.site.name }}</a>
+          </div>
+          <nav class="pages-nav">
+            <ul>
+              {% for item in wordpress.site.navigation %}
+              <li><a href="{{ item.url }}">{{ item.label }}</a></li>
+              {% endfor %}
+            </ul>
+          </nav>
+          <nav class="footer-social-nav">
+            <hr>
+            <ul>
+              <li class="pinterest"><a href="http://www.pinterest.com/pouredouthislov" target="_blank" rel="noreferrer"><span>Pinterest</span></a></li>
+              <li class="facebook"><a href="https://www.facebook.com/pouredouthislove" target="_blank" rel="noreferrer"><span>Facebook</span></a></li>
+              <li class="twitter"><a href="https://twitter.com/pouredouthislov" target="_blank" rel="noreferrer"><span>Twitter</span></a></li>
+            </ul>
+            <hr>
+          </nav>
+          <ul class="site-info-list">
+            <li>Inspired by Jesus Christ</li>
+            <li>Curated by Grace Houle</li>
+            <li>Crafted by <a href="http://andrewhoule.me">Andrew Houle</a></li>
+            <li>Edited by Christie Guyer &amp; Josiah Henderson</li>
+          </ul>
+        </div>
+      </section>
+      <section class="footer-bottom-wrap">
+        <div class="footer-bottom">
+          <p class="copyright">&copy; {{ build.year }} {{ wordpress.site.name }}. All rights reserved.</p>
+        </div>
+      </section>
+    </footer>
+  </div>
+
+  <script src="/assets/components/jquery/dist/jquery.min.js"></script>
+  <script src="/assets/components/respond/dest/respond.min.js"></script>
+  <script src="/assets/components/masonry/dist/masonry.pkgd.min.js"></script>
+  <script src="/assets/components/enquire/dist/enquire.min.js"></script>
+  {% if showFitvids %}
+  <script src="/assets/components/fitvids/jquery.fitvids.js"></script>
+  {% endif %}
+  <script src="/assets/js/pohl.js"></script>
+</body>
+</html>

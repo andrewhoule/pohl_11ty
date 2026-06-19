@@ -1,0 +1,52 @@
+{
+    "site": {
+        "name": "Poured Out His Love",
+        "description": "My thoughts about Christ, truth and morality",
+        "url": "https://pouredouthislove.com",
+        "homeUrl": "/",
+        "navigation": [
+            {
+                "label": "Articles",
+                "url": "/articles/"
+            },
+            {
+                "label": "About",
+                "url": "/about/"
+            },
+            {
+                "label": "Scripture",
+                "url": "/scripture/"
+            },
+            {
+                "label": "Bookshelf",
+                "url": "/bookshelf/"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/"
+            }
+        ],
+        "articleTopics": [
+            {
+                "label": "Faith",
+                "url": "/category/faith/"
+            },
+            {
+                "label": "Family",
+                "url": "/category/family/"
+            },
+            {
+                "label": "Truth",
+                "url": "/category/truth/"
+            },
+            {
+                "label": "Advice",
+                "url": "/category/advice/"
+            },
+            {
+                "label": "More",
+                "url": "/category/more/"
+            }
+        ]
+    }
+}

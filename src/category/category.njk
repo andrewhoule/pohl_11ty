@@ -1,0 +1,28 @@
+---
+pagination:
+  data: categories
+  size: 1
+  alias: category
+permalink: "{{ category.url | normalizeUrl }}index.html"
+layout: layouts/base.njk
+bodyClass: archive category
+eleventyComputed:
+  pageTitle: "{{ category.name }}"
+  metaDescription: "{{ category.description or wordpress.site.description }}"
+---
+{% set categoryPosts = posts | postsInCategory(category.slug) %}
+<section class="blog-banner-wrap">
+  <div class="blog-banner">
+    <img src="{{ category.bannerImage or '/assets/images/default-banner.jpg' }}" class="blog-banner-img" alt="{{ category.name }}">
+    <h1 class="blog-title"><span>On the topic of </span>{{ category.name }}</h1>
+  </div>
+</section>
+<section class="blog-content-wrap">
+  <div class="blog-content">
+    <section class="blog-excerpts">
+      {% for post in categoryPosts %}
+      {% include "partials/blog-card.njk" %}
+      {% endfor %}
+    </section>
+  </div>
+</section>

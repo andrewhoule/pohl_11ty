@@ -1,0 +1,36 @@
+---
+layout: layouts/base.njk
+permalink: /scripture/index.html
+pageTitle: Scripture
+metaDescription: "{{ wordpress.site.description }}"
+bodyClass: page page-scripture
+---
+{% set featuredScripture = scriptures[0] %}
+<section class="page-content-wrap">
+  <header class="page-header">
+    <h1 class="page-title ct">{{ specialPages.scripture.title if specialPages.scripture else 'Scripture' }}</h1>
+    <hr>
+  </header>
+  {% if featuredScripture %}
+  <main class="page-content">
+    <section class="featured-scripture-wrap">
+      <figure class="featured-scripture">
+        <blockquote>{{ featuredScripture.scripture | safe }}</blockquote>
+        <figcaption>{{ featuredScripture.book }}&nbsp;{{ featuredScripture.verse }}</figcaption>
+      </figure>
+    </section>
+  </main>
+  {% endif %}
+  <div class="scripture-main">
+    {% for scriptureCategory in scriptureCategories %}
+    {% if scriptureCategory.scriptures.length %}
+    <h2 class="scripture-category"><span>Scripture on</span> <a href="{{ scriptureCategory.url }}">{{ scriptureCategory.name }}</a></h2>
+    <ul class="scripture-list button-list">
+      {% for scripture in scriptureCategory.scriptures %}
+      <li><a href="{{ scripture.url }}" class="button-sm">{{ scripture.name }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>

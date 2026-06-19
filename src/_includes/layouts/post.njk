@@ -1,0 +1,34 @@
+---
+layout: layouts/base.njk
+---
+<article role="main" class="post-content type-post{% if post.featuredImage %} has-thumb{% endif %}">
+  <div class="post-image-wrap">
+    {% if post.featuredImage %}
+    <img src="{{ post.featuredImage }}" alt="{{ post.title }}">
+    {% if post.featuredCaption %}
+    <div class="wp-caption">{{ post.featuredCaption }}</div>
+    {% endif %}
+    {% endif %}
+  </div>
+  <header class="post-header">
+    <h1 class="post-title">{{ post.title }}</h1>
+    {% set category = post | topCategory %}
+    <div class="meta">By <span class="author">{{ post.author }}</span> on <span class="category">{% if category %}<a href="{{ category.url }}">{{ category.name }}</a>{% endif %}</span></div>
+    <nav class="share-nav">
+      <ul>
+        <li class="facebook"><a href="http://www.facebook.com/sharer/sharer.php?u={{ wordpress.site.url }}{{ post.url }}" target="_blank" rel="noreferrer"><span>Facebook</span></a></li>
+        <li class="pinterest"><a href="http://pinterest.com/pin/create/button/?url={{ wordpress.site.url }}{{ post.url }}&media={{ post.featuredImage | withDefault(wordpress.site.url + '/assets/images/default.jpg') }}&description={{ post.title }}" target="_blank" rel="noreferrer"><span>Pinterest</span></a></li>
+        <li class="twitter"><a href="http://twitter.com/share?text={{ post.title }} on {{ wordpress.site.name }}&url={{ wordpress.site.url }}{{ post.url }}" target="_blank" rel="noreferrer"><span>Twitter</span></a></li>
+      </ul>
+    </nav>
+    <hr>
+  </header>
+  {{ post.content | rewriteContent(wordpress.site) | safe }}
+</article>
+<section class="post-end-wrap">
+  <div class="post-end">
+    <div class="logo-mark">
+      <img src="/assets/svg/logo-mark.svg" alt="">
+    </div>
+  </div>
+</section>

@@ -1,0 +1,32 @@
+---
+layout: layouts/base.njk
+permalink: /bookshelf/index.html
+pageTitle: Bookshelf
+metaDescription: "{{ wordpress.site.description }}"
+bodyClass: page page-bookshelf
+---
+<section class="page-content-wrap">
+  <header class="page-header">
+    <h1 class="page-title ct">{{ specialPages.bookshelf.title if specialPages.bookshelf else 'The Bookshelf' }}</h1>
+    <hr>
+  </header>
+  {% if specialPages.bookshelf %}
+  {{ specialPages.bookshelf.content | rewriteContent(wordpress.site) | safe }}
+  {% endif %}
+  <main class="book-content">
+    {% for book in books %}
+    <div class="book">
+      {% if book.image %}
+      <div class="book-img">
+        <img src="{{ book.image }}" alt="Photo of {{ book.name }}">
+      </div>
+      {% endif %}
+      <div class="book-info">
+        <h2 class="book-title"><a href="{{ book.link }}" target="_blank" rel="noreferrer">{{ book.name }}</a></h2>
+        {{ book.description | safe }}
+        <a href="{{ book.link }}" target="_blank" rel="noreferrer" class="ghost-button">Buy from Amazon</a>
+      </div>
+    </div>
+    {% endfor %}
+  </main>
+</section>

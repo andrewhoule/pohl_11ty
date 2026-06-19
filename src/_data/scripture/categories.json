@@ -1,0 +1,656 @@
+[
+    {
+        "id": 7,
+        "name": "Evangelism",
+        "slug": "evangelism",
+        "url": "/scripture/category/evangelism/",
+        "scriptures": [
+            {
+                "id": 25,
+                "name": "Isaiah 6:8",
+                "slug": "isaiah-68",
+                "book": "Isaiah",
+                "verse": "6:8",
+                "url": "/scripture/isaiah-68/"
+            },
+            {
+                "id": 26,
+                "name": "Luke 12:8",
+                "slug": "luke-128",
+                "book": "Luke",
+                "verse": "12:8",
+                "url": "/scripture/luke-128/"
+            },
+            {
+                "id": 12,
+                "name": "Matthew 16:15-16",
+                "slug": "matthew-1615-16",
+                "book": "Matthew",
+                "verse": "16:15-16",
+                "url": "/scripture/matthew-1615-16/"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Faith",
+        "slug": "faith",
+        "url": "/scripture/category/faith/",
+        "scriptures": [
+            {
+                "id": 18,
+                "name": "Hebrews 11:1",
+                "slug": "hebrews-111",
+                "book": "Hebrews",
+                "verse": "11:1",
+                "url": "/scripture/hebrews-111/"
+            },
+            {
+                "id": 24,
+                "name": "Matthew 17:20",
+                "slug": "matthew-1720",
+                "book": "Matthew",
+                "verse": "17:20",
+                "url": "/scripture/matthew-1720/"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Faithful",
+        "slug": "faithful",
+        "url": "/scripture/category/faithful/",
+        "scriptures": [
+            {
+                "id": 44,
+                "name": "Lamentations 3:22-24",
+                "slug": "lamentations-322-24",
+                "book": "Lamentations",
+                "verse": "3:22-24",
+                "url": "/scripture/lamentations-322-24/"
+            },
+            {
+                "id": 47,
+                "name": "Psalm 100:5",
+                "slug": "psalm-1005",
+                "book": "Psalm",
+                "verse": "100:5",
+                "url": "/scripture/psalm-1005/"
+            },
+            {
+                "id": 31,
+                "name": "Psalm 33:4",
+                "slug": "psalm-334",
+                "book": "Psalm",
+                "verse": "33:4",
+                "url": "/scripture/psalm-334/"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fear",
+        "slug": "fear",
+        "url": "/scripture/category/fear/",
+        "scriptures": [
+            {
+                "id": 14,
+                "name": "1 John 4:18",
+                "slug": "1-john-4-18",
+                "book": "1 John",
+                "verse": "4:18",
+                "url": "/scripture/1-john-4-18/"
+            },
+            {
+                "id": 10,
+                "name": "2 Timothy 1:7",
+                "slug": "2-timothy-17",
+                "book": "2 Timothy",
+                "verse": "1:7",
+                "url": "/scripture/2-timothy-17/"
+            },
+            {
+                "id": 11,
+                "name": "Matthew 10:28",
+                "slug": "matthew-1028",
+                "book": "Matthew",
+                "verse": "10:28",
+                "url": "/scripture/matthew-1028/"
+            },
+            {
+                "id": 28,
+                "name": "Psalm 27:1",
+                "slug": "psalm-271",
+                "book": "Psalm",
+                "verse": "27:1",
+                "url": "/scripture/psalm-271/"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Forgiveness",
+        "slug": "forgiveness",
+        "url": "/scripture/category/forgiveness/",
+        "scriptures": [
+            {
+                "id": 33,
+                "name": "Psalm 103:12",
+                "slug": "psalm-10312",
+                "book": "Psalm",
+                "verse": "103:12",
+                "url": "/scripture/psalm-10312/"
+            },
+            {
+                "id": 52,
+                "name": "Psalm 130:3-4",
+                "slug": "psalm-1303-4",
+                "book": "Psalm",
+                "verse": "130:3-4",
+                "url": "/scripture/psalm-1303-4/"
+            },
+            {
+                "id": 32,
+                "name": "Psalm 86:5",
+                "slug": "psalm-865",
+                "book": "Psalm",
+                "verse": "86:5",
+                "url": "/scripture/psalm-865/"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Glory",
+        "slug": "glory",
+        "url": "/scripture/category/glory/",
+        "scriptures": [
+            {
+                "id": 29,
+                "name": "Psalm 46:10",
+                "slug": "psalm-4610",
+                "book": "Psalm",
+                "verse": "46:10",
+                "url": "/scripture/psalm-4610/"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "God's Will",
+        "slug": "gods-will",
+        "url": "/scripture/category/gods-will/",
+        "scriptures": [
+            {
+                "id": 64,
+                "name": "Acts 5:38-39",
+                "slug": "acts-538-39",
+                "book": "Acts",
+                "verse": "5:38-39",
+                "url": "/scripture/acts-538-39/"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Grace",
+        "slug": "grace",
+        "url": "/scripture/category/grace/",
+        "scriptures": [
+            {
+                "id": 46,
+                "name": "Romans 11:6",
+                "slug": "romans-116",
+                "book": "Romans",
+                "verse": "11:6",
+                "url": "/scripture/romans-116/"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Growth",
+        "slug": "growth",
+        "url": "/scripture/category/growth/",
+        "scriptures": []
+    },
+    {
+        "id": 8,
+        "name": "Hope",
+        "slug": "hope",
+        "url": "/scripture/category/hope/",
+        "scriptures": [
+            {
+                "id": 13,
+                "name": "1 John 4:4",
+                "slug": "1-john-44",
+                "book": "1 John",
+                "verse": "4:4",
+                "url": "/scripture/1-john-44/"
+            },
+            {
+                "id": 42,
+                "name": "Hebrews 10:22-23",
+                "slug": "hebrews-1022-23",
+                "book": "Hebrews",
+                "verse": "10:22-23",
+                "url": "/scripture/hebrews-1022-23/"
+            },
+            {
+                "id": 23,
+                "name": "Matthew 19:26",
+                "slug": "matthew-1926",
+                "book": "Matthew",
+                "verse": "19:26",
+                "url": "/scripture/matthew-1926/"
+            },
+            {
+                "id": 43,
+                "name": "Phillippians 4:13",
+                "slug": "phillippians-413",
+                "book": "Philippians",
+                "verse": "4:13",
+                "url": "/scripture/phillippians-413/"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Humility",
+        "slug": "humility",
+        "url": "/scripture/category/humility/",
+        "scriptures": [
+            {
+                "id": 34,
+                "name": "Psalm 103:14",
+                "slug": "psalm-10314",
+                "book": "Psalm",
+                "verse": "103:14",
+                "url": "/scripture/psalm-10314/"
+            },
+            {
+                "id": 19,
+                "name": "Psalm 8:3-4",
+                "slug": "psalm-83-4",
+                "book": "Psalm",
+                "verse": "8:3-4",
+                "url": "/scripture/psalm-83-4/"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Love",
+        "slug": "love",
+        "url": "/scripture/category/love/",
+        "scriptures": [
+            {
+                "id": 3,
+                "name": "1 Corinthians 13:4-7",
+                "slug": "1-corinthians-13-4-7",
+                "book": "1 Corinthians",
+                "verse": "13:4-7",
+                "url": "/scripture/1-corinthians-13-4-7/"
+            },
+            {
+                "id": 61,
+                "name": "1 Corinthians 16:13-14",
+                "slug": "1-corinthians-1613-14",
+                "book": "1 Corinthians",
+                "verse": "16:13-14",
+                "url": "/scripture/1-corinthians-1613-14/"
+            },
+            {
+                "id": 30,
+                "name": "1 John 3:18",
+                "slug": "1-john-318",
+                "book": "1 John",
+                "verse": "3:18",
+                "url": "/scripture/1-john-318/"
+            },
+            {
+                "id": 51,
+                "name": "Isaiah 49:16",
+                "slug": "isaiah-4916",
+                "book": "Isaiah",
+                "verse": "49:16",
+                "url": "/scripture/isaiah-4916/"
+            },
+            {
+                "id": 59,
+                "name": "Isaiah 62:3",
+                "slug": "isaiah-623",
+                "book": "Isaiah",
+                "verse": "62:3",
+                "url": "/scripture/isaiah-623/"
+            },
+            {
+                "id": 21,
+                "name": "Jeremiah 31:3",
+                "slug": "jeremiah-313",
+                "book": "Jeremiah",
+                "verse": "31:3",
+                "url": "/scripture/jeremiah-313/"
+            },
+            {
+                "id": 15,
+                "name": "John 14:15",
+                "slug": "john-1415",
+                "book": "John",
+                "verse": "14:15",
+                "url": "/scripture/john-1415/"
+            },
+            {
+                "id": 22,
+                "name": "Luke 12:7",
+                "slug": "luke-127",
+                "book": "Luke",
+                "verse": "12:7",
+                "url": "/scripture/luke-127/"
+            },
+            {
+                "id": 39,
+                "name": "Psalm 103:8",
+                "slug": "psalm-1038",
+                "book": "Psalm",
+                "verse": "103:8",
+                "url": "/scripture/psalm-1038/"
+            },
+            {
+                "id": 57,
+                "name": "Psalm 147:10-11",
+                "slug": "psalm-14710-11",
+                "book": "Psalm",
+                "verse": "147:10-11",
+                "url": "/scripture/psalm-14710-11/"
+            },
+            {
+                "id": 54,
+                "name": "Psalms 136:23",
+                "slug": "psalms-13623",
+                "book": "Psalm",
+                "verse": "136:23",
+                "url": "/scripture/psalms-13623/"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Obedience",
+        "slug": "obedience",
+        "url": "/scripture/category/obedience/",
+        "scriptures": [
+            {
+                "id": 55,
+                "name": "1 Corinthians 6:20",
+                "slug": "1-corinthians-620",
+                "book": "1 Corinthians",
+                "verse": "6:20",
+                "url": "/scripture/1-corinthians-620/"
+            },
+            {
+                "id": 63,
+                "name": "Acts 4:28-29",
+                "slug": "acts-428-29",
+                "book": "Acts",
+                "verse": "4:28-29",
+                "url": "/scripture/acts-428-29/"
+            },
+            {
+                "id": 62,
+                "name": "John 21:22",
+                "slug": "john-2122",
+                "book": "John",
+                "verse": "21:22",
+                "url": "/scripture/john-2122/"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Perseverance",
+        "slug": "perseverance",
+        "url": "/scripture/category/perseverance/",
+        "scriptures": [
+            {
+                "id": 41,
+                "name": "1 Corinthians 15:58",
+                "slug": "1-corinthians-1558",
+                "book": "1 Corinthians",
+                "verse": "15:58",
+                "url": "/scripture/1-corinthians-1558/"
+            },
+            {
+                "id": 27,
+                "name": "Galatians 6:9",
+                "slug": "galatians-69",
+                "book": "Galatians",
+                "verse": "6:9",
+                "url": "/scripture/galatians-69/"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Prayer",
+        "slug": "prayer",
+        "url": "/scripture/category/prayer/",
+        "scriptures": [
+            {
+                "id": 40,
+                "name": "Philippians 4:6-7",
+                "slug": "philippians-46-7",
+                "book": "Philippians",
+                "verse": "4:6-7",
+                "url": "/scripture/philippians-46-7/"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Purity",
+        "slug": "purity",
+        "url": "/scripture/category/purity/",
+        "scriptures": [
+            {
+                "id": 36,
+                "name": "Psalm 51:10-12",
+                "slug": "psalm-5110-12",
+                "book": "Psalm",
+                "verse": "51:10-12",
+                "url": "/scripture/psalm-5110-12/"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Respect",
+        "slug": "respect",
+        "url": "/scripture/category/respect/",
+        "scriptures": [
+            {
+                "id": 58,
+                "name": "Ecclesiastes 5:7",
+                "slug": "ecclesiastes-57",
+                "book": "Ecclesiastes",
+                "verse": "5:7",
+                "url": "/scripture/ecclesiastes-57/"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Rest",
+        "slug": "rest",
+        "url": "/scripture/category/rest/",
+        "scriptures": [
+            {
+                "id": 37,
+                "name": "Matthew 11:28-29",
+                "slug": "matthew-1128-29",
+                "book": "Matthew",
+                "verse": "11:28-29",
+                "url": "/scripture/matthew-1128-29/"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Salvation",
+        "slug": "salvation",
+        "url": "/scripture/category/salvation/",
+        "scriptures": [
+            {
+                "id": 35,
+                "name": "Ephesians 2:8",
+                "slug": "ephesians-28",
+                "book": "Ephesians",
+                "verse": "2:8",
+                "url": "/scripture/ephesians-28/"
+            },
+            {
+                "id": 53,
+                "name": "Ezekiel 36:26",
+                "slug": "ezekiel-3626",
+                "book": "Ezekiel",
+                "verse": "36:26",
+                "url": "/scripture/ezekiel-3626/"
+            },
+            {
+                "id": 60,
+                "name": "Isaiah 55:6",
+                "slug": "isaiah-556",
+                "book": "Isaiah",
+                "verse": "55:6",
+                "url": "/scripture/isaiah-556/"
+            },
+            {
+                "id": 8,
+                "name": "John 14:6",
+                "slug": "john-146",
+                "book": "John",
+                "verse": "14:6",
+                "url": "/scripture/john-146/"
+            },
+            {
+                "id": 7,
+                "name": "John 3:16",
+                "slug": "john-316",
+                "book": "John",
+                "verse": "3:16",
+                "url": "/scripture/john-316/"
+            },
+            {
+                "id": 16,
+                "name": "John 6:23",
+                "slug": "john-623",
+                "book": "John",
+                "verse": "6:23",
+                "url": "/scripture/john-623/"
+            },
+            {
+                "id": 9,
+                "name": "Romans 10:9-10",
+                "slug": "romans-109-10",
+                "book": "Romans",
+                "verse": "10:9-10",
+                "url": "/scripture/romans-109-10/"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Thankfulness",
+        "slug": "thankfulness",
+        "url": "/scripture/category/thankfulness/",
+        "scriptures": [
+            {
+                "id": 17,
+                "name": "Psalm 118:24",
+                "slug": "psalm-11824",
+                "book": "Psalm",
+                "verse": "118:24",
+                "url": "/scripture/psalm-11824/"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Tithing",
+        "slug": "tithing",
+        "url": "/scripture/category/tithing/",
+        "scriptures": []
+    },
+    {
+        "id": 12,
+        "name": "Trinity",
+        "slug": "trinity",
+        "url": "/scripture/category/trinity/",
+        "scriptures": [
+            {
+                "id": 20,
+                "name": "John 10:30",
+                "slug": "john-1030",
+                "book": "John",
+                "verse": "10:30",
+                "url": "/scripture/john-1030/"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Trust",
+        "slug": "trust",
+        "url": "/scripture/category/trust/",
+        "scriptures": [
+            {
+                "id": 38,
+                "name": "Proverbs 3:5-6",
+                "slug": "proverbs-35-6",
+                "book": "Proverbs",
+                "verse": "3:5-6",
+                "url": "/scripture/proverbs-35-6/"
+            },
+            {
+                "id": 45,
+                "name": "Psalm 37:4-5",
+                "slug": "psalm-374-5",
+                "book": "Psalm",
+                "verse": "37:4-5",
+                "url": "/scripture/psalm-374-5/"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Wisdom",
+        "slug": "wisdom",
+        "url": "/scripture/category/wisdom/",
+        "scriptures": [
+            {
+                "id": 48,
+                "name": "Psalm 90:12",
+                "slug": "psalm-9012",
+                "book": "Psalm",
+                "verse": "90:12",
+                "url": "/scripture/psalm-9012/"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Worry",
+        "slug": "worry",
+        "url": "/scripture/category/worry/",
+        "scriptures": [
+            {
+                "id": 56,
+                "name": "Matthew 6:25-27",
+                "slug": "matthew-625-27",
+                "book": "Matthew",
+                "verse": "6:25-27",
+                "url": "/scripture/matthew-625-27/"
+            }
+        ]
+    }
+]

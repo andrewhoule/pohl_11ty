@@ -1,0 +1,22 @@
+---
+layout: layouts/base.njk
+permalink: /articles/index.html
+pageTitle: "{{ specialPages.articles.title if specialPages.articles else 'Articles' }}"
+metaDescription: "{{ wordpress.site.description }}"
+bodyClass: page page-articles
+---
+<section class="blog-banner-wrap">
+  <div class="blog-banner">
+    <img src="/assets/images/default-banner.jpg" class="blog-banner-img" alt="">
+    <h1 class="blog-title"><span>My journal of</span> Thoughts</h1>
+  </div>
+</section>
+<section class="blog-content-wrap">
+  <div class="blog-content">
+    <section class="blog-excerpts">
+      {% for post in posts %}
+      {% include "partials/blog-card.njk" %}
+      {% endfor %}
+    </section>
+  </div>
+</section>

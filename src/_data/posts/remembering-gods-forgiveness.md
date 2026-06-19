@@ -1,0 +1,41 @@
+---
+id: 6139
+title: "Remembering God’s Forgiveness"
+slug: "remembering-gods-forgiveness"
+url: "/remembering-gods-forgiveness/"
+date: "2016-12-13T13:26:21+00:00"
+modified: "2017-02-07T20:32:31+00:00"
+author: "Grace Houle"
+excerpt: "Each day we have moments where we desperately need God’s forgiveness and grace. Wake up calls to our imperfections and depravity. Perhaps like me, you remember a season that you realized the depth of this chasm. God's grace and mercy was not just the cherry on top, but the necessary glue to keep you together. We sometimes get so comfortable that I think we forget the love we had at first for the God who gave us hope. That elated feeling of peace and joy, when we tossed all our garbage aside and said, \"I trust You.\""
+featuredImage: "/wp-content/uploads/2016/11/bag-gypsofilia-seeds-1716655_1920.jpg"
+featuredCaption: ""
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+---
+<p class="intro">Each day we have moments where we desperately need God’s forgiveness and grace. Wake up calls to our imperfections and depravity. Perhaps like me, you remember a season that you realized the depth of this chasm. God&#8217;s grace and mercy was not just the cherry on top, but the necessary glue to keep you together. We sometimes get so comfortable that I think we forget the love we had at first for the God who gave us hope. That elated feeling of peace and joy, when we tossed all our garbage aside and said, &#8220;I trust You.&#8221;</p>
+<blockquote><p>But I have this against you, that you have abandoned the love you had at first. Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent.</p></blockquote>
+<p><cite>Revelation 2:4-5</cite></p>
+<p>My season came when I was young. I was a Christian for quite some time, but I still longed for validation of people. I didn&#8217;t realize the depth of God&#8217;s love for me. I didn&#8217;t realize He was sufficient. With each choice I made I was slowly drifting away from God. My ideals of what was acceptable was questioned. I had lived a life that felt good enough, and I was blindly accepting my choices based on society&#8217;s standards. My heart felt burdened and empty. The newly found lifestyle had wrapped its clothes around me, like a new set of skin. I had a hard time breaking free.</p>
+<p>God&#8217;s peace offers rest and hope for the soul, not the uneasy ache that perched itself on my shoulders. My sin had separated me from God, and it hurt <small>(Is. 59:2)</small>. I knew I had to get right with God, so I sought God and did not relent. I laid down my pride, my hurt, my sin and I said, &#8220;Please heal what I have broken I want a restored relationship with You.&#8221; God looked at me with my questionable decisions, my moments of compromise, and said, &#8220;I forgive you, now leave the life of sin.&#8221;</p>
+<p>I felt redeemed, washed clean, from the mistakes I willfully chose, and was unwilling to subject myself to those strongholds again.</p>
+<blockquote><p>Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool.</p></blockquote>
+<p><cite>Isaiah 1:18</cite></p>
+<blockquote><p>She said, “No one, Lord.” And Jesus said, “Neither do I condemn you; go, and from now on sin no more.”</p></blockquote>
+<p><cite>John 8:11</cite></p>
+<p>That gift of forgiveness is still very present in my mind. It wasn&#8217;t a thank you Lord, to make it to the next time I willfully sinned, it was a please take away the desire to sin from my life, because sin is like a rotting cancer that won&#8217;t leave. Do I sin? Yes, I am human. But, do I do everything I can to run from temptation and cling to God&#8217;s undefiled love? Yes, absolutely!</p>
+<p><img loading="lazy" decoding="async" class="alignright size-full wp-image-6153" src="/wp-content/uploads/2016/11/butterfly-1644189_1280.jpg" alt="butterfly-1644189_1280" width="1280" height="853" srcset="/wp-content/uploads/2016/11/butterfly-1644189_1280.jpg 1280w, /wp-content/uploads/2016/11/butterfly-1644189_1280-400x267.jpg 400w, /wp-content/uploads/2016/11/butterfly-1644189_1280-768x512.jpg 768w, /wp-content/uploads/2016/11/butterfly-1644189_1280-750x500.jpg 750w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
+<p>Why would I want to run away again? I would often think of the analogy of a building, with each brick representing a choice I made in the wrong direction. Although God forgives readily each brick was a consequence of my decision. When we are ready to start afresh, we have to pull brick by brick off of that house, and deal with our choices. We make the choices so hastily, and then spend countless hours regrouping. Let us stop doing that.</p>
+<div class="pullquote">The process was often painful. I was reminded of each choice I made; not by God&#8217;s anger, but by sins repercussions.</div>
+<p>With each brick I pulled down, I felt lighter and lighter. The process was often painful. I was reminded of each choice I made, not by God&#8217;s anger, but by sins repercussions. Solidifying my election that I never wanted to live in that selfish state of sin again. I did not want to be away from God’s presence. I wanted to live according to His Word, and trust His direction&#8230; over my emotions.</p>
+<p>It&#8217;s easier to obey what God says in His Word, than to figure out everything the hard way. We spend countless hours making things work. Thankfully, even in those situations, God has a plan.</p>
+<p>Through the pain of learning things the hard way, I am choosing daily to live a life pleasing to the one who made me and loves me. Compromising is not fun for me. Going so close to the edge that I may fall over is not fun for me. I don’t like it. I don’t want it because I remember&#8230; I remember the feeling of a second chance.</p>
+<p><img loading="lazy" decoding="async" class="alignright size-full wp-image-6155" src="/wp-content/uploads/2016/11/water-lily-1857350_1280.jpg" alt="water-lily-1857350_1280" width="1280" height="853" srcset="/wp-content/uploads/2016/11/water-lily-1857350_1280.jpg 1280w, /wp-content/uploads/2016/11/water-lily-1857350_1280-400x267.jpg 400w, /wp-content/uploads/2016/11/water-lily-1857350_1280-768x512.jpg 768w, /wp-content/uploads/2016/11/water-lily-1857350_1280-750x500.jpg 750w" sizes="auto, (max-width: 1280px) 100vw, 1280px" /></p>
+<p>A second chance of life. A second chance at freedom.</p>
+<blockquote><p>Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness?</p></blockquote>
+<p><cite>Romans 6:16</cite></p>
+<p>When we take a breath each morning, we need to remember the feeling of God&#8217;s grace washing over us. The desire to be present with him, because we love him, and he loves us. When we first are saved this natural inclination to strive to receive more of God and live in close fellowship with him, comes so naturally; however, when life swoops in, and the cares of this world bombard us, sometimes we forget.</p>
+<p>We forget that love that clung us to His hem. May our eyes always be fixed on the One who cleanses, refreshes and redeems, and not on the fleeting cares of this world that neither satisfy nor fulfill.</p>
+<blockquote><p>For My thoughts are not your thoughts, Nor are your ways My ways,” declares the Lord. For the heavens are higher than the earth, So are My ways higher than your ways and My thoughts than your thoughts.</p></blockquote>
+<p><cite>Isaiah 55:8-9</cite></p>
+<p><iframe loading="lazy" src="https://www.youtube.com/embed/gKJ5exVTe1g" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+

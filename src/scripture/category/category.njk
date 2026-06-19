@@ -1,0 +1,40 @@
+---
+pagination:
+  data: scriptureCategories
+  size: 1
+  alias: scriptureCategory
+permalink: "{{ scriptureCategory.url | normalizeUrl }}index.html"
+layout: layouts/base.njk
+bodyClass: page page-scripture-category
+eleventyComputed:
+  pageTitle: "{{ scriptureCategory.name }}"
+  metaDescription: "{{ scriptureCategory.name }}"
+---
+<section class="page-content-wrap">
+  <header class="page-header">
+    <h1 class="page-title ct">Scripture</h1>
+    <hr>
+  </header>
+  <main class="page-content">
+    <div class="scripture-main">
+      <h2 class="scripture-category"><span>Scripture on</span> {{ scriptureCategory.name }}</h2>
+      <ul class="button-list">
+        {% for scripture in scriptureCategory.scriptures %}
+        <li><a href="{{ scripture.url }}" class="button-sm">{{ scripture.name }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <aside class="scripture-more">
+      <section class="sidebar-block">
+        <h3>Categories</h3>
+        <ul class="button-list">
+          {% for category in scriptureCategories %}
+          {% if category.scriptures.length %}
+          <li><a href="{{ category.url }}" class="ghost-button-sm">{{ category.name }}</a></li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </section>
+    </aside>
+  </main>
+</section>

@@ -1,0 +1,14 @@
+---
+pagination:
+  data: regularPages
+  size: 1
+  alias: pageData
+permalink: "{{ pageData.url | normalizeUrl }}index.html"
+layout: layouts/page.njk
+bodyClass: page
+eleventyComputed:
+  title: "{{ pageData.title }}"
+  pageTitle: "{{ pageData.title }}"
+  metaDescription: "{{ pageData.content | stripHtml | excerpt(160) }}"
+---
+{{ pageData.content | rewriteContent(wordpress.site) | safe }}
