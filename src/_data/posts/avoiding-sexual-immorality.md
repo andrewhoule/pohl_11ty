@@ -7,10 +7,10 @@ date: "2013-07-08T17:34:37+00:00"
 modified: "2014-10-10T13:57:56+00:00"
 author: "Grace Houle"
 excerpt: "Who else feels the need to cover their eyes while passing Abercrombie and Fitch? Anyone, anyone? We live in a very lustful society, our minds are being polluted on a daily basis, just from merely turning on the tv or passing a billboard. We are constantly bombarded with the notion that open sensuality and promiscuity are ok, but God desires so much more for us. Nobody else will guard your mind for you, you have to make a conscience effort to do that, or you too can fall prey to the norm."
-featuredImage: "/wp-content/uploads/2013/07/sexual-immorality-e1412949294551.jpg"
+featuredImage: "/assets/uploads/2013/07/sexual-immorality-e1412949294551.jpg"
 featuredCaption: "Grant me purity of heart, so that I may honor you. Psalm 88:11"
 categories: [{"id":229,"name":"Sexual Immorality","slug":"sexual-immorality","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/sexual-immorality/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <blockquote><p>Grant me purity of heart, so that I may honor you.
 </p></blockquote>

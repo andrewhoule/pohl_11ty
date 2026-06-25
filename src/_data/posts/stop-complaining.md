@@ -7,10 +7,10 @@ date: "2013-01-22T21:15:16+00:00"
 modified: "2015-01-12T15:20:37+00:00"
 author: "Grace Houle"
 excerpt: "It’s all perspective. We complain over trivial matters; yet, there are people who have a reason to complain, but don’t. For the same energy it takes to complain, we should use those mental resources and think of things we are thankful for."
-featuredImage: "/wp-content/uploads/2013/01/old-woman-stop-complaining.jpg"
+featuredImage: "/assets/uploads/2013/01/old-woman-stop-complaining.jpg"
 featuredCaption: ""
 categories: [{"id":209,"name":"Complaining","slug":"complaining","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/complaining/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">It’s all perspective. We complain over trivial matters; yet, there are people who have a reason to complain, but don’t. For the same energy it takes to complain, we should use those mental resources and think of things we are thankful for.</p>
 <div class="half-wrapper cf">

@@ -7,10 +7,10 @@ date: "2011-05-19T20:12:19+00:00"
 modified: "2015-01-12T04:31:45+00:00"
 author: "Grace Houle"
 excerpt: "My prayer is that I can be the best wife and mother I can be. A task that would be easier if I had a Ken Barbie husband and children who lived at Super Nanny’s house, but the reality is, I am not perfect and neither are they. I have to keep my head in check and focus so I can love my family as much as they deserved to be loved despite our big ball of imperfections. Today I'd prefer not to focus on what our family needs to change, but rather how to work on ourselves."
-featuredImage: "/wp-content/uploads/2011/05/P1010485.jpg"
+featuredImage: "/assets/uploads/2011/05/P1010485.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p>My prayer is that I can be the best wife and mother I can be. A task that would be easier if I had a Ken Barbie husband and children who lived at Super Nanny’s house, but the reality is, I am not perfect and neither are they. I have to keep my head in check and focus so I can love my family as much as they deserved to be loved despite our big ball of imperfections. Today I&#8217;d prefer not to focus on what our family needs to change, but rather how to work on ourselves.</p>
 <p><em>It isn’t about what others can do to make my life more manageable, but what can I do in my current situation that will bring glory to God.</em></p>

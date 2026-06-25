@@ -7,10 +7,10 @@ date: "2011-12-13T20:30:03+00:00"
 modified: "2015-01-16T16:13:44+00:00"
 author: "Grace Houle"
 excerpt: "We wake up, and our feet hit the floor running. Our agenda is filled to capacity, and we can't imagine rationally adding anything else to our plate. What can shift our focus from our daily agenda to God's daily agenda? How can we find time, and what is the importance of reading God's word?"
-featuredImage: "/wp-content/uploads/2011/12/candle-535149_1280.jpg"
+featuredImage: "/assets/uploads/2011/12/candle-535149_1280.jpg"
 featuredCaption: ""
 categories: [{"id":148,"name":"Bible","slug":"bible","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/bible/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">We wake up, and our feet hit the floor running. Our agenda is filled to capacity, and we can&#8217;t imagine rationally adding anything else to our plate. What can shift our focus from our daily agenda to God&#8217;s daily agenda? How can we find time, and what is the importance of reading God&#8217;s word?</p>
 <h2>Reading the Bible. Is it Worth it?</h2>

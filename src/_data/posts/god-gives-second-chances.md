@@ -7,10 +7,10 @@ date: "2012-08-13T11:43:14+00:00"
 modified: "2015-01-15T02:53:39+00:00"
 author: "Grace Houle"
 excerpt: "I am so thankful for second chances. Life is such a journey filled with ups and downs. Sometimes we are on our “A” game, other times we fail. We are reminded in our human state how imperfect we are. Yet, through our moments of imperfection, we are humbled with the realization of Gods grace and mercy as He forgives us and gives us a second chance."
-featuredImage: "/wp-content/uploads/2012/08/bike-239882_1280.jpg"
+featuredImage: "/assets/uploads/2012/08/bike-239882_1280.jpg"
 featuredCaption: ""
 categories: [{"id":53,"name":"Forgiveness","slug":"forgiveness","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/forgiveness/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p class="intro">I am so thankful for second chances. Life is such a journey filled with ups and downs. Sometimes we are on our “A” game, other times we fail. We are reminded in our human state how imperfect we are. Yet, through our moments of imperfection, we are humbled with the realization of Gods grace and mercy as He forgives us and gives us a second chance.</p>
 <blockquote><p>Because of the LORD’s great love we are not consumed, for His compassions never fail. They are new every morning; great is Your faithfulness.</p></blockquote>

@@ -7,10 +7,10 @@ date: "2012-03-12T20:14:31+00:00"
 modified: "2015-01-12T16:19:34+00:00"
 author: "Grace Houle"
 excerpt: "Today's the day. We lay our prayer before God, the same prayer we've prayed for months, possibly years. Waiting for a miracle. Waiting for a loving God to bestow mercy on our particular request. What is the delay?"
-featuredImage: "/wp-content/uploads/2012/03/tiredobedience.jpg"
+featuredImage: "/assets/uploads/2012/03/tiredobedience.jpg"
 featuredCaption: ""
 categories: [{"id":125,"name":"Perseverance","slug":"perseverance","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/perseverance/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Today&#8217;s the day. We lay our prayer before God, the same prayer we&#8217;ve prayed for months, possibly years. Waiting for a miracle. Waiting for a loving God to bestow mercy on our particular request. What is the delay?</p>
 <h2>We Grow Tired</h2>

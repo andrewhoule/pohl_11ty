@@ -7,10 +7,10 @@ date: "2014-12-05T20:56:49+00:00"
 modified: "2014-12-10T02:26:53+00:00"
 author: "Joanna Henderson"
 excerpt: "After coming home from the Real Housewives Retreat, I could not stop thinking of the enormous flock of black birds that swarmed the dining hall that last meal we had together. It was enough for us all to get out of our seats and stare out the windows (nobody dared to go outside though!)."
-featuredImage: "/wp-content/uploads/2014/12/starlings.jpg"
+featuredImage: "/assets/uploads/2014/12/starlings.jpg"
 featuredCaption: ""
 categories: [{"id":170,"name":"Friendship","slug":"friendship","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/friendship/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p><em>My sister-in-law and friend Joanna Henderson is guest posting on Poured out His Love today. She had wrote this piece for those who were a part of a woman&#8217;s retreat, but I thought it would also encourage others. I hope you enjoy!</em></p>
 <p class="intro">After coming home from the Real Housewives Retreat, I could not stop thinking of the enormous flock of black birds that swarmed the dining hall that last meal we had together. It was enough for us all to get out of our seats and stare out the windows (nobody dared to go outside though!).</p>

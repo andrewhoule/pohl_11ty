@@ -10,7 +10,7 @@ excerpt: "Christians are supposed to be known by their love: love for God, and l
 featuredImage: null
 featuredCaption: null
 categories: [{"id":229,"name":"Sexual Immorality","slug":"sexual-immorality","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/sexual-immorality/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <h2>Homosexuality and the church</h2>
 <p>I have to admit, this is the hardest post that I have and will write. Not because I am unsure of what I am writing, but because I know how controversial the topic is, and that there are people I care about who have differing opinions. So inevitably there will be awkwardness that I am not looking forward to, but I feel I have to write what the Bible says on this topic before that right as an American is stripped from me.</p>

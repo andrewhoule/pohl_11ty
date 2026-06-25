@@ -7,10 +7,10 @@ date: "2014-04-03T19:58:31+00:00"
 modified: "2014-11-07T14:45:43+00:00"
 author: "Grace Houle"
 excerpt: "As parents we need to be at the front lines for our children as their number one advocate and protector. Taking the first blows as situations come charging at our kids, whether it be filtering what they hear, protecting their steps, or nurturing their heart we need to invest in our kids with passion and conviction, teaching them what true love is and learning it ourselves. There are few days that go by that some foreign food substance hasn't lodged itself on my shirt, or that the coffee pot has run dry way too early; yet, we need to plow forward. Not because it's easy, but because we love our kids, and we are going to be held accountable for how we parented them."
-featuredImage: "/wp-content/uploads/2014/03/IMG_4099.jpg"
+featuredImage: "/assets/uploads/2014/03/IMG_4099.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <blockquote><p>I believe that I have many callings in life, but my greatest burden is shepherding my children into a place where they love and serve the Lord despite my shortcomings.</p></blockquote>
 <p><cite>Angie Smith</cite></p>

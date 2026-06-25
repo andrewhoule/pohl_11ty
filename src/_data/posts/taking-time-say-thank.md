@@ -7,10 +7,10 @@ date: "2014-12-30T21:20:48+00:00"
 modified: "2014-12-31T14:30:11+00:00"
 author: "Grace Houle"
 excerpt: "Her favorite blanket was missing. Sure she has others, but this is her new favorite. A cute blanket with a cow on it that she lovingly refers to as 'moo-moo'. We looked for a while, but nothing showed up. So she stopped and said, “I know what to do!” With her eyes clinched together she prayed, “Lord, please help me find my Moo-Moo, Amen.”"
-featuredImage: "/wp-content/uploads/2014/12/taking-time-to-say-thank-you.jpg"
+featuredImage: "/assets/uploads/2014/12/taking-time-to-say-thank-you.jpg"
 featuredCaption: ""
 categories: [{"id":120,"name":"Thanksgiving","slug":"thanksgiving","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/thanksgiving/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">The prayer of a child over her blanket, the thankfulness of an adult over healing, both pausing their daily lives to thank God. Once a blessing comes, how easy it is to focus on the blessing, rather than the one who gave the blessing. Being appreciative for the little and big things in life that remind us that we are loved and thought about even in the intimacy of our personal lives from a loving and caring God.</p>
 <p><em>Her favorite blanket was missing. Sure she has others, but this is her new favorite. A cute blanket with a cow on it that she lovingly refers to as &#8216;moo-moo&#8217;. We looked for a while, but nothing showed up. So she stopped and said, “I know what to do!”</em><em>With her eyes clinched together she prayed, “Lord, please help me find my Moo-Moo, Amen.”</em><em>Within a few minutes we found her blanket!</em></p>

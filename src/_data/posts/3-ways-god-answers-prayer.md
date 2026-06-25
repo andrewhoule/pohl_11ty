@@ -7,10 +7,10 @@ date: "2011-06-21T18:54:46+00:00"
 modified: "2015-02-06T02:46:11+00:00"
 author: "Grace Houle"
 excerpt: "When we express the desires of our heart in prayer our prayers do not fall on deaf ears. Yet, sometimes when we don't get a quick response, or exactly what we desire, we huff and puff and say God isn't listening. God sees the full picture even when we only see a small piece of the puzzle. We just have to keep the faith that God knows what's best. Don't be discouraged if you don't get an answer right away. Keep on asking until God answers, and when He does answer, pray that God prepares your heart so you can accept the outcome."
-featuredImage: "/wp-content/uploads/2011/06/prayer.jpg"
+featuredImage: "/assets/uploads/2011/06/prayer.jpg"
 featuredCaption: ""
 categories: [{"id":118,"name":"Prayer","slug":"prayer","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/prayer/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">When we express the desires of our heart in prayer they do not fall on deaf ears. Yet, sometimes when we don&#8217;t get a quick response, or exactly what we desire, we huff and puff and say God isn&#8217;t listening. God sees the full picture even when we only see a small piece of the puzzle. We just have to keep the faith that God knows what&#8217;s best. Don&#8217;t be discouraged if you don&#8217;t get an answer right away. Keep on asking until God answers, and when He does answer, pray that God prepares your heart so you can accept the outcome.</p>
 <h2 class="main-heading">God answers our prayers in these 3 ways.</h2>

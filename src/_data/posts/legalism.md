@@ -7,10 +7,10 @@ date: "2014-08-06T11:57:01+00:00"
 modified: "2014-10-10T14:12:52+00:00"
 author: "Grace Houle"
 excerpt: "Lately, I have been hearing a lot of people angry over legalism. What is legalism? I am sure if you asked multiple people what it is you probably would receive various answers. This seemingly attainable type of mindset eliminates the need for a Savior and yet it falls so far from the truth because no one is perfect (Romans 3:23). Bottom line, we need a Savior. Jesus fills the gaps of our imperfection and provides a means for salvation. However, sometimes I feel people take the term legalism too far, falsely assume many matters the Bible discusses as debatable. This too is dangerous because it undervalues the fact that God placed it in the Bible for a reason."
-featuredImage: "/wp-content/uploads/2014/08/legalism-poster.jpg"
+featuredImage: "/assets/uploads/2014/08/legalism-poster.jpg"
 featuredCaption: ""
 categories: [{"id":259,"name":"Legalism","slug":"legalism","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/legalism/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p>Lately, I&#8217;ve been hearing a lot of people angry over legalism. What is legalism? I am sure if you asked multiple people what it is you&#8217;d receive a lot of different answers.</p>
 <div class="sidenote">Legalism: An adherence to the law as a means of salvation, feeling justified by their own works and religious facade.</div>

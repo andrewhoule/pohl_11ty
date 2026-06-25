@@ -7,10 +7,10 @@ date: "2019-12-23T14:47:26+00:00"
 modified: "2020-06-26T14:17:45+00:00"
 author: "Grace Houle"
 excerpt: "Here’s a little secret… marriage is hard! After a long day of wrangling kids, doing the ever mounting dishes, folding the Leaning Tower of Pisa laundry, you may collapse on the couch wondering, is there really time or energy for your spouse?..."
-featuredImage: "/wp-content/uploads/2019/12/IMG_3808-scaled.jpeg"
+featuredImage: "/assets/uploads/2019/12/IMG_3808-scaled.jpeg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":316,"name":"Love","slug":"love-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/love-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":316,"name":"Love","slug":"love-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/love-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 
 <p class="intro wp-block-paragraph">Here’s a little secret… marriage is hard! After a long day of wrangling kids, doing the ever mounting dishes, folding the Leaning Tower of Pisa laundry,  you may collapse on the couch wondering, is there really time or energy for your spouse? I am here to let you know the answer is no. Just kidding. It is possible; it just takes some planning and creativity. </p>
@@ -21,7 +21,7 @@ displayCategory: {"id":102,"name":"Family","slug":"family","description":"","par
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="565" src="/wp-content/uploads/2019/12/dating-with-kids-6-750x565.jpg" alt="" class="wp-image-6897" srcset="/wp-content/uploads/2019/12/dating-with-kids-6-750x565.jpg 750w, /wp-content/uploads/2019/12/dating-with-kids-6-400x301.jpg 400w, /wp-content/uploads/2019/12/dating-with-kids-6-768x578.jpg 768w, /wp-content/uploads/2019/12/dating-with-kids-6.jpg 1270w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="565" src="/assets/uploads/2019/12/dating-with-kids-6-750x565.jpg" alt="" class="wp-image-6897" srcset="/assets/uploads/2019/12/dating-with-kids-6-750x565.jpg 750w, /assets/uploads/2019/12/dating-with-kids-6-400x301.jpg 400w, /assets/uploads/2019/12/dating-with-kids-6-768x578.jpg 768w, /assets/uploads/2019/12/dating-with-kids-6.jpg 1270w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -37,7 +37,7 @@ displayCategory: {"id":102,"name":"Family","slug":"family","description":"","par
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="551" src="/wp-content/uploads/2019/12/dating-with-kids-1-750x551.jpg" alt="" class="wp-image-6902" srcset="/wp-content/uploads/2019/12/dating-with-kids-1-750x551.jpg 750w, /wp-content/uploads/2019/12/dating-with-kids-1-400x294.jpg 400w, /wp-content/uploads/2019/12/dating-with-kids-1-768x564.jpg 768w, /wp-content/uploads/2019/12/dating-with-kids-1.jpg 1800w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="551" src="/assets/uploads/2019/12/dating-with-kids-1-750x551.jpg" alt="" class="wp-image-6902" srcset="/assets/uploads/2019/12/dating-with-kids-1-750x551.jpg 750w, /assets/uploads/2019/12/dating-with-kids-1-400x294.jpg 400w, /assets/uploads/2019/12/dating-with-kids-1-768x564.jpg 768w, /assets/uploads/2019/12/dating-with-kids-1.jpg 1800w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -53,7 +53,7 @@ displayCategory: {"id":102,"name":"Family","slug":"family","description":"","par
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="604" src="/wp-content/uploads/2019/12/dating-with-kids-3-750x604.jpg" alt="" class="wp-image-6900" srcset="/wp-content/uploads/2019/12/dating-with-kids-3-750x604.jpg 750w, /wp-content/uploads/2019/12/dating-with-kids-3-400x322.jpg 400w, /wp-content/uploads/2019/12/dating-with-kids-3-768x619.jpg 768w, /wp-content/uploads/2019/12/dating-with-kids-3.jpg 1800w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="604" src="/assets/uploads/2019/12/dating-with-kids-3-750x604.jpg" alt="" class="wp-image-6900" srcset="/assets/uploads/2019/12/dating-with-kids-3-750x604.jpg 750w, /assets/uploads/2019/12/dating-with-kids-3-400x322.jpg 400w, /assets/uploads/2019/12/dating-with-kids-3-768x619.jpg 768w, /assets/uploads/2019/12/dating-with-kids-3.jpg 1800w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 

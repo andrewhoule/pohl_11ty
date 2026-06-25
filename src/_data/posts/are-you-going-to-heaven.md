@@ -7,10 +7,10 @@ date: "2011-05-10T13:56:20+00:00"
 modified: "2018-07-30T03:57:27+00:00"
 author: "Grace Houle"
 excerpt: "Life is short. Every day we go though our routine of life just trying to make it through till the next day. Would you please take a few minutes to help choose what you will do for eternity? We are sinful; God is sinless. Who could bridge the dividing gap? There is only one way and that is through Jesus Christ. Hanging on the cross, beaten and bruised, Jesus Christ willfully died for you and I."
-featuredImage: "/wp-content/uploads/2011/05/imgres-1.jpeg"
+featuredImage: "/assets/uploads/2011/05/imgres-1.jpeg"
 featuredCaption: ""
 categories: [{"id":40,"name":"Salvation","slug":"salvation","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/salvation/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Life is short, passing by like a thief in the night. As we try to grasp for more of our most precious commodity, time, we realize that we can be good stewards of it, but we can&#8217;t control how much time there is. Would you please take a few moments today with your valuable time to choose where you will spend eternity?</p>
 <h2>What must I do to be Saved?</h2>

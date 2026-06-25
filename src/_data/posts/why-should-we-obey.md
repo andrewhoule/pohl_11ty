@@ -7,10 +7,10 @@ date: "2013-08-01T18:14:17+00:00"
 modified: "2015-02-21T19:46:02+00:00"
 author: "Grace Houle"
 excerpt: "Playtime at McDonalds was over. It was time to wrap things up and get going. Of course telling three children that it's time to leave is easier said then done. After much repetition I finally got all three kids in the van. Relieved, yet frustrated, I sat down and stated, \"You know you guys really have to listen and obey mommy\" Isabella's response, \"Why?\""
-featuredImage: "/wp-content/uploads/2013/08/Why-should-we-obey.jpg"
+featuredImage: "/assets/uploads/2013/08/Why-should-we-obey.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Playtime at McDonalds was over. It was time to wrap things up and get going. Of course telling three children that it&#8217;s time to leave is easier said then done. After much repetition I finally got all three kids in the van. Relieved, yet frustrated, I sat down and stated, &#8220;You know you guys really have to listen and obey mommy&#8221; Isabella&#8217;s response, &#8220;Why?&#8221;</p>
 <p>It&#8217;s a question that&#8217;s not all that uncommon in the Houle household. At first glance the question is simple and unassuming, yet it can be very thought provoking – forcing us to truly think of the reasons behind what we do, and what we demand.</p>

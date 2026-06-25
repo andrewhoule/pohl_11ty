@@ -7,10 +7,10 @@ date: "2015-06-22T19:42:41+00:00"
 modified: "2016-04-29T00:42:20+00:00"
 author: "Grace Houle"
 excerpt: "We serve a God of the impossible. Do you truly believe this? As you say your prayers, do you pray within the realm of possibility or impossibility? Do you realize that God’s abilities go beyond your situation, limitations, and even other people? Fears and worries creep in when our faith is limited to what we can do within our own ability, ultimately accepting a limited view of God."
-featuredImage: "/wp-content/uploads/2015/06/sunset-515501_1280.jpg"
+featuredImage: "/assets/uploads/2015/06/sunset-515501_1280.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":118,"name":"Prayer","slug":"prayer","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/prayer/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":118,"name":"Prayer","slug":"prayer","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/prayer/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">We serve a God of the impossible. Do you truly believe this? As you say your prayers, do you pray within the realm of possibility or impossibility? Do you realize that God’s abilities go beyond your situation, limitations, and even other people? Fears and worries creep in when our faith is limited to what we can do within our own ability, ultimately accepting a limited view of God. God is not human. He is not confined to the four walls of our boxed in independent view of what we think is realistically possible. God says hold onto my promises. Hold onto faith as small as a mustard seed, because that alone is enough faith to watch mountains move and giants fall.</p>
 <blockquote><p>Truly I tell you, if you have faith as small as a mustard seed, you can say to this mountain, &#8216;Move from here to there,&#8217; and it will move. Nothing will be impossible for you.</p></blockquote>

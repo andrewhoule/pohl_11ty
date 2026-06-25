@@ -7,10 +7,10 @@ date: "2014-11-12T20:50:11+00:00"
 modified: "2014-12-01T03:08:24+00:00"
 author: "Grace Houle"
 excerpt: "Blink. The moment has passed. Someone else has run out of time. The specific number of days that only God knows, yet because of the busyness of life procrastination trumps the most important decision. Where will you spend eternity?"
-featuredImage: "/wp-content/uploads/2014/11/time.jpg"
+featuredImage: "/assets/uploads/2014/11/time.jpg"
 featuredCaption: ""
 categories: [{"id":40,"name":"Salvation","slug":"salvation","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/salvation/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Blink. The moment has passed. Someone else has run out of time. The specific number of days that only God knows, yet because of the busyness of life procrastination trumps the most important decision. Where will you spend eternity?</p>
 <p>Do you believe in Jesus Christ and trust Him as your Lord and Savior? No matter what is on your schedule I pray these are the questions you take time today to think about. My prayer is that the people who know me, will be able to look past my imperfections and realize that the God that I serve is real.</p>

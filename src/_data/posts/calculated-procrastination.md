@@ -7,10 +7,10 @@ date: "2012-07-09T15:43:19+00:00"
 modified: "2015-01-15T03:05:24+00:00"
 author: "Grace Houle"
 excerpt: "Procrastination, oh how you taunt me! Our list is a mile long of things to do, people we want to encourage, people we need to address. It is easy to push some things to the bottom of the list and literally never get around to them. And because we are staying busy, it relieves some of the guilt involved of achieving those things on the \"to-do\" list."
-featuredImage: "/wp-content/uploads/2012/07/1151807_46818568.jpg"
+featuredImage: "/assets/uploads/2012/07/1151807_46818568.jpg"
 featuredCaption: ""
 categories: [{"id":179,"name":"Procrastination","slug":"procrastination","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/procrastination/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">Procrastination, oh how you taunt me! Our list is a mile long of things to do, people we want to encourage, people we need to address. It is easy to push some things to the bottom of the list and literally never get around to them. And because we are staying busy, it relieves some of the guilt involved of achieving those things on the &#8220;to-do&#8221; list.</p>
 <h2>Repeated reminders</h2>

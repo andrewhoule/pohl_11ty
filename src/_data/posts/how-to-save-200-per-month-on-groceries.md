@@ -7,10 +7,10 @@ date: "2014-11-25T20:56:53+00:00"
 modified: "2014-12-06T04:06:45+00:00"
 author: "Grace Houle"
 excerpt: "I think it is so important to be a good steward of all that God has entrusted to us, including our finances. When we were a family of 4 we were spending approximately $150 per week in groceries and toiletries. Since then we have implanted some simple transitions to our grocery shopping and although we have increased our family size to 5, we have still saved approximately $50 per week. Here are some of my inside tips."
-featuredImage: "/wp-content/uploads/2014/11/how-to-save-200-per-month.jpg"
+featuredImage: "/assets/uploads/2014/11/how-to-save-200-per-month.jpg"
 featuredCaption: ""
-categories: [{"id":292,"name":"Financial","slug":"financial","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/financial/"},{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+categories: [{"id":292,"name":"Financial","slug":"financial","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/financial/"},{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}]
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <blockquote><p> Honor the Lord with your wealth and with the firstfruits of all your produce.</p></blockquote>
 <p><cite>Proverbs 3:9</cite></p>

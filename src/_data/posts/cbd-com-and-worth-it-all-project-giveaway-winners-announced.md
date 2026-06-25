@@ -10,7 +10,7 @@ excerpt: "For the past 2 weeks we held a contest asking your guys input on your 
 featuredImage: null
 featuredCaption: null
 categories: [{"id":211,"name":"Giveaway","slug":"giveaway","description":"","parentId":1,"parentName":"More","parentSlug":"more","bannerImage":null,"url":"/category/giveaway/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 <p>For the past 2 weeks we held a contest asking your guys input on your favorite articles and to join us on Facebook. Thank you for those who participated. The winners are announced below&#8230;</p>
 <h2>1. $20 CBD.com gift card</h2>

@@ -7,10 +7,10 @@ date: "2011-05-12T16:55:01+00:00"
 modified: "2015-01-12T04:33:41+00:00"
 author: "Grace Houle"
 excerpt: "Receiving forgiveness is in many ways harder than giving forgiveness. You not only struggle with feeling unworthy of this undeserved gift, but also are dependent on if the person you wronged will forgive you. How can we transform our mind to release our heart of guilt and accept forgiveness?"
-featuredImage: "/wp-content/uploads/2011/05/92283961.jpg"
+featuredImage: "/assets/uploads/2011/05/92283961.jpg"
 featuredCaption: ""
 categories: [{"id":53,"name":"Forgiveness","slug":"forgiveness","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/forgiveness/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p>Receiving forgiveness is in many ways harder than giving forgiveness. You not only struggle with feeling unworthy of this undeserved gift, but also are dependent on if the person you wronged will forgive you. How can we transform our mind to release our heart of guilt and accept forgiveness?</p>
 <h2>Admit you Need Forgiveness</h2>

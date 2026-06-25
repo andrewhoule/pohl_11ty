@@ -7,10 +7,10 @@ date: "2014-02-07T13:50:38+00:00"
 modified: "2014-11-07T14:47:20+00:00"
 author: "Grace Houle"
 excerpt: "The door shuts, as disagreements mount. There is a progression of pain, that escalates as one wonders where is this person I married? Does he hear the cries of my heart? Does he care? In a marriage you love deeply and hurt deeply. Each spouse knows the others buttons, and they WILL push them. What are some practical ways to make your spouse loveable again?"
-featuredImage: "/wp-content/uploads/2014/02/IMG_23811.jpg"
+featuredImage: "/assets/uploads/2014/02/IMG_23811.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p>The door shuts, as disagreements mount. There is a progression of pain, that escalates as one wonders where is this person I married? Does he hear the cries of my heart? Does he care? In a marriage you love deeply and hurt deeply. Each spouse knows the others buttons, and they WILL push them. What are some practical ways to make your spouse loveable again?</p>
 <h2 class="intro">Accept It’s Not Always Roses</h2>

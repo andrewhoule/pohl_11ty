@@ -7,10 +7,10 @@ date: "2020-06-25T08:53:13+00:00"
 modified: "2020-08-03T12:16:45+00:00"
 author: "Grace Houle"
 excerpt: "As I journey through life, I am surprised that pain takes me so off guard. Pain is inevitable in a fallen world, stemming from Adams decision so long ago, and still reeking havoc in our lives today. The question is not if..."
-featuredImage: "/wp-content/uploads/2020/06/woman-591576_1920.jpg"
+featuredImage: "/assets/uploads/2020/06/woman-591576_1920.jpg"
 featuredCaption: ""
-categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"},{"id":309,"name":"Trials","slug":"trials-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/trials-family/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"},{"id":309,"name":"Trials","slug":"trials-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/trials-family/"}]
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 
 <p class="wp-block-paragraph">As I journey through life, I am surprised that pain takes me so off guard. Pain is inevitable in a fallen world, stemming from Adams decision so long ago, and still reeking havoc in our lives today. The question is not if pain will happen, but when. Then the choice lies, how will we respond to that pain? Will we offer God our pain, or allow ourselves to wallow in our  misery?</p>
@@ -19,7 +19,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 <p><!--StartFragment--></p>
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="750" height="500" src="/wp-content/uploads/2020/06/water-lily-1510707_1920-750x500.jpg" alt="" class="wp-image-6964" srcset="/wp-content/uploads/2020/06/water-lily-1510707_1920-750x500.jpg 750w, /wp-content/uploads/2020/06/water-lily-1510707_1920-400x267.jpg 400w, /wp-content/uploads/2020/06/water-lily-1510707_1920-768x512.jpg 768w, /wp-content/uploads/2020/06/water-lily-1510707_1920-1536x1024.jpg 1536w, /wp-content/uploads/2020/06/water-lily-1510707_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="750" height="500" src="/assets/uploads/2020/06/water-lily-1510707_1920-750x500.jpg" alt="" class="wp-image-6964" srcset="/assets/uploads/2020/06/water-lily-1510707_1920-750x500.jpg 750w, /assets/uploads/2020/06/water-lily-1510707_1920-400x267.jpg 400w, /assets/uploads/2020/06/water-lily-1510707_1920-768x512.jpg 768w, /assets/uploads/2020/06/water-lily-1510707_1920-1536x1024.jpg 1536w, /assets/uploads/2020/06/water-lily-1510707_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -46,7 +46,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 <p></p>
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="750" height="422" src="/wp-content/uploads/2020/06/abstract-3147697_1920-750x422.jpg" alt="" class="wp-image-6965" srcset="/wp-content/uploads/2020/06/abstract-3147697_1920-750x422.jpg 750w, /wp-content/uploads/2020/06/abstract-3147697_1920-400x225.jpg 400w, /wp-content/uploads/2020/06/abstract-3147697_1920-768x432.jpg 768w, /wp-content/uploads/2020/06/abstract-3147697_1920-1536x864.jpg 1536w, /wp-content/uploads/2020/06/abstract-3147697_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="750" height="422" src="/assets/uploads/2020/06/abstract-3147697_1920-750x422.jpg" alt="" class="wp-image-6965" srcset="/assets/uploads/2020/06/abstract-3147697_1920-750x422.jpg 750w, /assets/uploads/2020/06/abstract-3147697_1920-400x225.jpg 400w, /assets/uploads/2020/06/abstract-3147697_1920-768x432.jpg 768w, /assets/uploads/2020/06/abstract-3147697_1920-1536x864.jpg 1536w, /assets/uploads/2020/06/abstract-3147697_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -111,7 +111,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 <p><!--EndFragment--></p>
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="500" src="/wp-content/uploads/2019/05/purple-grapes-553463_1920-750x500.jpg" alt="" class="wp-image-6807" srcset="/wp-content/uploads/2019/05/purple-grapes-553463_1920-750x500.jpg 750w, /wp-content/uploads/2019/05/purple-grapes-553463_1920-400x267.jpg 400w, /wp-content/uploads/2019/05/purple-grapes-553463_1920-768x512.jpg 768w, /wp-content/uploads/2019/05/purple-grapes-553463_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="500" src="/assets/uploads/2019/05/purple-grapes-553463_1920-750x500.jpg" alt="" class="wp-image-6807" srcset="/assets/uploads/2019/05/purple-grapes-553463_1920-750x500.jpg 750w, /assets/uploads/2019/05/purple-grapes-553463_1920-400x267.jpg 400w, /assets/uploads/2019/05/purple-grapes-553463_1920-768x512.jpg 768w, /assets/uploads/2019/05/purple-grapes-553463_1920.jpg 1920w" sizes="auto, (max-width: 750px) 100vw, 750px" /></figure>
 
 
 
@@ -162,7 +162,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 <p><!--StartFragment--></p>
 
 
-<div class="wp-block-cover has-background-dim" style="background-image:url(/wp-content/uploads/2019/05/branch-3873825_1920.jpg)"><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-cover has-background-dim" style="background-image:url(/assets/uploads/2019/05/branch-3873825_1920.jpg)"><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
 <p class="has-text-align-center has-large-font-size wp-block-paragraph">Pruning: Working through Pain</p>
 
 

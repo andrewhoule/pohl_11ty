@@ -7,10 +7,10 @@ date: "2011-04-13T14:41:25+00:00"
 modified: "2015-02-13T15:33:37+00:00"
 author: "Grace Houle"
 excerpt: "I know God gives gifts to certain people, evangelism being one of them. Some people open their mouth and the power of God speaks flawlessly through them. I on the other hand open my mouth and am socially awkward to the T. However, although I don't feel it is my natural gifting to evangelize, I feel it is all our responsibility, not only as an act of obedience, but also out of love for others."
-featuredImage: "/wp-content/uploads/2011/04/evangelism.jpg"
+featuredImage: "/assets/uploads/2011/04/evangelism.jpg"
 featuredCaption: ""
 categories: [{"id":75,"name":"Evangelism","slug":"evangelism","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/evangelism/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>Therefore go and make disciples of all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Spirit, and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.</p></blockquote>
 <p><cite>Matthew 28:19-20</cite></p>

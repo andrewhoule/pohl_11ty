@@ -7,10 +7,10 @@ date: "2015-03-19T12:55:41+00:00"
 modified: "2015-03-19T14:04:00+00:00"
 author: "Grace Houle"
 excerpt: "We all have our foundational beliefs that form the framework of our core. Where does your truth stem from? From society? Your parents? The Bible? Perhaps you don’t even realize where they came from, they are just so embedded in your personality you continue to live them out. I challenge you-to strip down your preconceived notions of truth, and start building your ideologies on the Word of God. Because ultimately when we say our parting goodbye's here on earth, the only One we have to give account to is God."
-featuredImage: "/wp-content/uploads/2015/03/what-is-truth.jpg"
+featuredImage: "/assets/uploads/2015/03/what-is-truth.jpg"
 featuredCaption: "Photo Credit: by Grzegorz Mleczek"
 categories: [{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">We all have our foundational beliefs that form the framework of our core. Where does your truth stem from? From society? Your parents? The Bible? Perhaps you don’t even realize where they came from, they are just so embedded in your personality you continue to live them out. I challenge you-to strip down your preconceived notions of truth, and start building your ideologies on the Word of God. Because ultimately when we say our parting goodbye&#8217;s here on earth, the only One we have to give account to is God.</p>
 <blockquote><p>I tell you, my friends, do not fear those who kill the body, and after that have nothing more that they can do. But I will warn you whom to fear: fear him who, after he has killed, has authority to cast into hell. Yes, I tell you, fear him!</p></blockquote>

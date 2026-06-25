@@ -7,10 +7,10 @@ date: "2011-05-17T13:31:12+00:00"
 modified: "2015-01-21T13:55:25+00:00"
 author: "Grace Houle"
 excerpt: "How often do we feel like we take one step forward and two steps back? Why is that? What can we do to have victory in Christ on a continuous basis? Life throws some whirlwinds. We live in a battlefield. Life is not easy, and sometimes it seems like we are never given a chance to reach up for a breath of fresh air. We start to get weak in the knees, and bingo! Satan is right their prepared to attack."
-featuredImage: "/wp-content/uploads/2011/05/victory-in-Christ.jpg"
+featuredImage: "/assets/uploads/2011/05/victory-in-Christ.jpg"
 featuredCaption: ""
 categories: [{"id":93,"name":"Trials","slug":"trials","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trials/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>How often do we feel like we take one step forward and two steps back? Why is that? What can we do to have victory in Christ on a continuous basis?</p>
 <h2>Prepare for Battle</h2>

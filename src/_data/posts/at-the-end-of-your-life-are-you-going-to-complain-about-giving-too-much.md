@@ -7,10 +7,10 @@ date: "2014-10-08T20:04:01+00:00"
 modified: "2015-01-21T20:02:33+00:00"
 author: "Grace Houle"
 excerpt: "In the famous scene at the end of Schindler's List, Oskar Schindler looks at his remaining possessions and helplessly reflects on lost opportunities. His anguish is palpable as this strong man's heart begins to break. He didn't boast about the hundreds that were spared in his factory, but mourned for those that didn't get to see the light of another day."
-featuredImage: "/wp-content/uploads/2014/10/giving-too-much.jpg"
+featuredImage: "/assets/uploads/2014/10/giving-too-much.jpg"
 featuredCaption: ""
 categories: [{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>In the famous scene at the end of Schindler&#8217;s List, Oskar Schindler looks at his remaining possessions and helplessly reflects on lost opportunities. His anguish is palpable as this strong man&#8217;s heart begins to break. He didn&#8217;t boast about the hundreds that were spared in his factory, but mourned for those that didn&#8217;t get to see the light of another day.</p>
 <p><iframe loading="lazy" src="//www.youtube.com/embed/vOoWpTxKJGA?rel=0" width="960" height="720" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

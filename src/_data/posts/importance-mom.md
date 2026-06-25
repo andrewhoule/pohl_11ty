@@ -7,10 +7,10 @@ date: "2014-05-09T16:28:35+00:00"
 modified: "2014-11-07T14:39:41+00:00"
 author: "Grace Houle"
 excerpt: "On May 9, 2009 at 11:24pm I gave birth to a 4lb, 11oz son. The first time I held him I didn't fully comprehend what it was to be a mom, and yet I knew I loved this child I carried for 36 weeks. The sacrifice, the devotion, the love had not sunk in as I confidently assumed mothering in its entirety would come as naturally as riding a bike... perhaps I was thinking of a bike with training wheels?"
-featuredImage: "/wp-content/uploads/2014/05/P1000252.jpg"
+featuredImage: "/assets/uploads/2014/05/P1000252.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":286,"name":"Importance","slug":"importance","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/importance/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":286,"name":"Importance","slug":"importance","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/importance/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p>On May 9, 2009 at 11:24pm I gave birth to a 4lb, 11oz son. The first time I held him I didn&#8217;t fully comprehend what it was to be a mom, and yet I knew I loved this child I carried for 36 weeks. The sacrifice, the devotion, the love had not sunk in as I confidently assumed mothering in its entirety would come as naturally as riding a bike&#8230; perhaps I was thinking of a bike with training wheels?</p>
 <p>From the first breath your baby takes, they long for their mother to console them. In the first few weeks, their cuteness is enough to wake you up in the middle of the night rushing to their side to meet their needs. But soon after, when your body starts to feel the effect of this transition, you realize that mothering is less like a sprint and more like a marathon.</p>

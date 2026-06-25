@@ -10,7 +10,7 @@ excerpt: "Why fear? Every day we are faced with our fears. Phobias consume the p
 featuredImage: null
 featuredCaption: null
 categories: [{"id":55,"name":"Fear","slug":"fear","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/fear/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p>Fear: A feeling of agitation and anxiety caused by the presence or imminence of danger.</p>
 <h2>Why fear?</h2>

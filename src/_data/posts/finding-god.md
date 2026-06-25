@@ -7,10 +7,10 @@ date: "2012-10-24T14:44:48+00:00"
 modified: "2015-01-13T03:10:06+00:00"
 author: "Grace Houle"
 excerpt: "Where is God? The question emanates from those around me. I see their longing, their desire for peace, the feeling deep down that there is something more. But they still haven’t experienced the life changing power of Christ and wonder why? The assumption soon rises perhaps it is what it is. I can’t dwell on something I can’t change, so I will just enjoy this life, and hope everything works itself out at the end. Unfortunately, we can’t wait till the end to make amends with God. We have to make proactive steps now to receive His presence and solidify our hope in what is to come."
-featuredImage: "/wp-content/uploads/2012/10/book-506481_1280.jpg"
+featuredImage: "/assets/uploads/2012/10/book-506481_1280.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>If you seek me you will find me, if you seek me with your whole heart.</p></blockquote>
 <p><cite>Jeremiah 29:13</cite></p>

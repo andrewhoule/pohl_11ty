@@ -7,10 +7,10 @@ date: "2016-01-08T21:04:59+00:00"
 modified: "2016-01-12T16:06:51+00:00"
 author: "Grace Houle"
 excerpt: "Have you ever prayed and pleaded with God over a personal matter and still had the answer be no? Have you ever laid your heart bare and thought surely God will have mercy on me? Yet, what if God's mercy didn't look exactly like the manuscript you sent up to Him? What if God's mercy came through hardship, as your tears fall to the ground? Our faithful and just Creator looking beyond our desires and reaching our needs."
-featuredImage: "/wp-content/uploads/2016/01/you-are-not-alone.jpg"
+featuredImage: "/assets/uploads/2016/01/you-are-not-alone.jpg"
 featuredCaption: ""
 categories: [{"id":93,"name":"Trials","slug":"trials","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trials/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Have you ever prayed and pleaded with God over a personal matter and still had the answer be no? Have you ever laid your heart bare and thought surely God will have mercy on me? Yet, what if God&#8217;s mercy didn&#8217;t look exactly like the manuscript you sent up to Him? What if God&#8217;s mercy came through hardship, as your tears fall to the ground? Our faithful and just Creator looking beyond our desires and reaching our needs.</p>
 <p>I know the feeling. Daily I pleaded with God, asking Him to grant me what my heart longed for. I was like Jacob wrestling with God, hoping, if I held out long enough, I too would hear God&#8217;s approving words.</p>

@@ -7,10 +7,10 @@ date: "2011-09-21T16:20:02+00:00"
 modified: "2015-03-10T01:11:29+00:00"
 author: "Grace Houle"
 excerpt: "Sometimes we need to look at the heart of a child to remind us of the timeless truths God has tried to impress upon our hearts for years. We look at what we have or don’t have and feel limited. How could God find favor in me, or use me, when all I have doesn’t look good in comparison to what we see others offer. This is not how God weighs our offerings. God looks at the heart, and values the unseen things above all else."
-featuredImage: "/wp-content/uploads/2011/09/two-teddy-grahams.jpg"
+featuredImage: "/assets/uploads/2011/09/two-teddy-grahams.jpg"
 featuredCaption: ""
 categories: [{"id":39,"name":"Tithing","slug":"tithing","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/tithing/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Sometimes we need to look at the heart of a child to remind us of the timeless truths God has tried to impress upon our hearts for years. We look at what we have or don’t have and feel limited. How could God find favor in me, or use me, when all I have doesn’t look good in comparison to what we see others offer. This is not how God weighs our offerings. God looks at the heart, and values the unseen things above all else.</p>
 <h2>Giving Your 2¢</h2>

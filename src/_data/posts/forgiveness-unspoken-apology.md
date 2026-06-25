@@ -7,10 +7,10 @@ date: "2015-02-12T19:48:03+00:00"
 modified: "2016-04-29T00:47:34+00:00"
 author: "Grace Houle"
 excerpt: "“He doesn’t have to say he's sorry” my 4 year old daughter's said after I told my son to apologize to her. It wasn’t in a disrespectful tone, but one of forgiveness. True forgiveness, one that can't be bought or faked. She got it."
-featuredImage: "/wp-content/uploads/2015/02/forgiveness-without-an-apology.jpg"
+featuredImage: "/assets/uploads/2015/02/forgiveness-without-an-apology.jpg"
 featuredCaption: ""
 categories: [{"id":53,"name":"Forgiveness","slug":"forgiveness","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/forgiveness/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p class="intro">“He doesn’t have to say he&#8217;s sorry”. These were the words my 4 year old daughter said after I told my son to apologize to her. It wasn’t in a disrespectful tone, but one of forgiveness. True forgiveness that can&#8217;t be bought or faked. She got it.</p>
 <blockquote><p>A man&#8217;s discretion makes him slow to anger, And it is his glory to overlook a transgression.</p></blockquote>

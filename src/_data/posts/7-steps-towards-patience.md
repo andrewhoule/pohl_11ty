@@ -10,7 +10,7 @@ excerpt: "We've all heard the saying, 'patience is a virtue'- now are we sure th
 featuredImage: null
 featuredCaption: null
 categories: [{"id":119,"name":"Patience","slug":"patience","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/patience/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">We&#8217;ve all heard the saying, &#8216;patience is a virtue&#8217;- now are we sure that&#8217;s in the Bible? I didn&#8217;t realize how much I struggled with patience before I had kids. The daily struggles of motherhood are uprooting a lot of things that I realize I have to work on. With one step in front of the other I go. Yes, God, I understand it is Your timing not mine, but please can you just let me follow my personal agenda today. And the sad thing is I am a Type B person; I can’t even imagine how my Type A girlfriends deal with this issue. Breathe in, Breathe out.</p>
 <blockquote><p>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.</p></blockquote>

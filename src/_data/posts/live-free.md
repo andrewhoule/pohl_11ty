@@ -7,10 +7,10 @@ date: "2012-02-24T16:40:46+00:00"
 modified: "2015-03-02T13:44:13+00:00"
 author: "Grace Houle"
 excerpt: "Love is the catalyst of the Christian faith, no longer tied to condemnation; we are freed to love God without guilt or shame. “Though our sins are as scarlet they shall be as white as snow. (Is. 1:18)” This agape love is sealed by the blood of Christ on the cross, as He points to you and me, and says you are worth it. God has given you a free pass to love and be loved. Your past does not define your future. There is forgiveness. So lets live as though we are free."
-featuredImage: "/wp-content/uploads/2012/02/chains-19176_1280.jpg"
+featuredImage: "/assets/uploads/2012/02/chains-19176_1280.jpg"
 featuredCaption: ""
 categories: [{"id":116,"name":"Sin","slug":"sin","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/sin/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <h2>No Condemnation</h2>
 <p>Love is the catalyst of the Christian faith, no longer tied to condemnation; we are freed to love God without guilt or shame. <em>“Though our sins are as scarlet they shall be as white as snow.”</em> <small>(Is. 1:18)</small> This agape love is sealed by the blood of Christ on the cross, as He points to you and me, and says you are worth it. God has given you a free pass to love and be loved. Your past does not define your future. There is forgiveness, and yet sometimes the bondage that once held us, we willfully return, as though we have quickly forgotten the value of forgiveness,  and the freedom that it brings.</p>

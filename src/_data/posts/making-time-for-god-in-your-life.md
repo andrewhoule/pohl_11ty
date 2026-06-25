@@ -7,20 +7,20 @@ date: "2015-05-21T12:15:45+00:00"
 modified: "2016-04-29T00:43:03+00:00"
 author: "Grace Houle"
 excerpt: "Sometimes we get so busy that we forget that God desires our love. He prefers a simple card that comes from our heart, rather than a thousand eloquent words with no meaning behind them. God wants us to sit at His feet and listen to Him. He wants us to stop rushing from His presence, in order to do things that breathe temporary value, because even the good things, if not done with God in the midst of it, will not have lasting value. They will be a chore list to get done, rather than an offering of love."
-featuredImage: "/wp-content/uploads/2015/05/blogpost-pic.jpg"
+featuredImage: "/assets/uploads/2015/05/blogpost-pic.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":122,"name":"Priorities","slug":"priorities","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/priorities/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":122,"name":"Priorities","slug":"priorities","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/priorities/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">It was a regular morning, I was cleaning up in the kitchen, preparing for my day. Izzy was doing some arts and crafts in the toy room. She walked over to me with sincerity in her voice and handed me a card.</p>
 <p><strong>Izzy:</strong> <em>Mom, can you do me a favor?</em></p>
 <p><strong>Me:</strong> <em>Sure, what’s up, hun?</em></p>
 <p>Izzy hands me a picture that she drew. The picture was decorated with trees, handwritten with her name and God&#8217;s.<br />
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5443" src="/wp-content/uploads/2015/05/izzy-God-card.jpg" alt="izzy-God-card" width="1000" height="800" srcset="/wp-content/uploads/2015/05/izzy-God-card.jpg 1000w, /wp-content/uploads/2015/05/izzy-God-card-400x320.jpg 400w, /wp-content/uploads/2015/05/izzy-God-card-750x600.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></p>
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5443" src="/assets/uploads/2015/05/izzy-God-card.jpg" alt="izzy-God-card" width="1000" height="800" srcset="/assets/uploads/2015/05/izzy-God-card.jpg 1000w, /assets/uploads/2015/05/izzy-God-card-400x320.jpg 400w, /assets/uploads/2015/05/izzy-God-card-750x600.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></p>
 <p><strong>Izzy:</strong> <em>Can you give this to God for me?</em></p>
 <p>As she flips over the paper a single heart is in the center of the page.</p>
 <p><strong>Izzy:</strong> <em> It has a heart on the back because I love God.</em><br />
-<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5444" src="/wp-content/uploads/2015/05/Heart.jpg" alt="Heart" width="1000" height="800" srcset="/wp-content/uploads/2015/05/Heart.jpg 1000w, /wp-content/uploads/2015/05/Heart-400x320.jpg 400w, /wp-content/uploads/2015/05/Heart-750x600.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /><br />
+<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-5444" src="/assets/uploads/2015/05/Heart.jpg" alt="Heart" width="1000" height="800" srcset="/assets/uploads/2015/05/Heart.jpg 1000w, /assets/uploads/2015/05/Heart-400x320.jpg 400w, /assets/uploads/2015/05/Heart-750x600.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /><br />
 Music to this mother&#8217;s ears.</p>
 <p>Her love for God, expressed through the offering of a simple heart, and picture made from construction paper and crayon.  So pure, so simple, so lovely.</p>
 <p>Sometimes we get so busy that we forget that what God desires is our love. He prefers our simple cards with a heart, rather than one thousand eloquent words with no meaning behind them. God wants us to sit at His feet and listen to Him. To stop rushing from His presence, in order to do things that breathe temporary value, because even the good things, if not done with God in the midst of it, will not have any lasting value. They will be a chore list to get done, rather than an offering of love.</p>

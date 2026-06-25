@@ -7,10 +7,10 @@ date: "2015-01-27T21:57:21+00:00"
 modified: "2016-04-29T00:49:31+00:00"
 author: "Grace Houle"
 excerpt: "One step at a time we take, as we realize that our faith is not just a one and done phenomenon; but rather a lifetime of drawing closer to God through the highs and lows of life, and believe me their will be both. Yet, despite the peace and joy that God brings, drawing close is still an intentional daily choice of obedience and sacrifice, to stay cultivated and fresh."
-featuredImage: "/wp-content/uploads/2015/01/finish-the-race-strong.jpg"
+featuredImage: "/assets/uploads/2015/01/finish-the-race-strong.jpg"
 featuredCaption: ""
 categories: [{"id":125,"name":"Perseverance","slug":"perseverance","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/perseverance/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">One step at a time we take, as we realize that our faith is not just a one and done phenomenon; but rather a lifetime of drawing closer to God through the highs and lows of life, and believe me their will be both. Yet, despite the peace and joy that God brings, drawing close is still an intentional daily choice to stay cultivated and fresh.</p>
 <p>In the beginning of our journey, we are excited about the adventure. This newness drives us to seek God in a deeper way, as true forgiveness is at the forefront of our minds, and we are thrilled to share the hope we have. Yet as life presses on we tend to forget. Life, trials, hardships and busyness chip away at the reminders of what makes a relationship with God so beautiful.</p>

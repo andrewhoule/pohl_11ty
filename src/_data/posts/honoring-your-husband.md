@@ -7,10 +7,10 @@ date: "2012-04-30T17:16:01+00:00"
 modified: "2015-01-12T04:21:23+00:00"
 author: "Grace Houle"
 excerpt: "The wedding ceremony, joining of two lives in perfect harmony. You feel complete, whole. Then, something happens on the way home from the reception. You realize your soul mate is completely different than you. You have different opinions and dreams. You can't even agree on the thermostat. So what now? How do you honor your husband with love and respect despite the seeming different worlds that you live on?"
-featuredImage: "/wp-content/uploads/2012/04/DSC_0103.jpg"
+featuredImage: "/assets/uploads/2012/04/DSC_0103.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p>The wedding ceremony, joining of two lives in perfect harmony. You feel complete, whole. Then, something happens on the way home from the reception. You realize your soul mate is completely different than you. You have different opinions and dreams. You can&#8217;t even agree on the thermostat. So what now? How do you honor your husband with love and respect despite the seeming different worlds that you live on?</p>
 <h2>A. Pray&#8230; Talking to God puts things in perspective</h2>

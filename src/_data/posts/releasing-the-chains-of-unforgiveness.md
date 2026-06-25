@@ -10,7 +10,7 @@ excerpt: "I felt led to write about forgiveness. Not because I am an expert on t
 featuredImage: null
 featuredCaption: null
 categories: [{"id":53,"name":"Forgiveness","slug":"forgiveness","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/forgiveness/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p>I felt led to write about forgiveness. Not because I am an expert on the matter, but because I think it is so vital in living a joyful Christian life. Forgiveness is hard, nobody claims it is not. When somebody hurts us, it is hard to rebuild trust and move on from the wrongs that they committed. What reasons are we to give that would force us to forgive, instead of just abandoning the friendship, or avoiding the person all together?</p>
 <h2>Definition of Forgiveness</h2>

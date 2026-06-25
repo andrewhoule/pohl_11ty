@@ -7,10 +7,10 @@ date: "2013-11-22T20:10:45+00:00"
 modified: "2014-10-10T14:14:21+00:00"
 author: "Grace Houle"
 excerpt: "A strong willed child? A rough marriage? Financial problems? What will cause our knees to bend? We all have trials and tribulations that force us to question the purpose of our troubles in the big scheme of things. We wonder why we couldn’t be stronger and overcome this adversity in our own strength."
-featuredImage: "/wp-content/uploads/2013/11/photo-2.jpg"
+featuredImage: "/assets/uploads/2013/11/photo-2.jpg"
 featuredCaption: ""
 categories: [{"id":242,"name":"Dependence","slug":"dependence","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/dependence/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>A strong willed child? A rough marriage? Financial problems? What will cause our knees to bend? We all have trials and tribulations that force us to question the purpose of our troubles within the big scheme of things. We wonder why we can&#8217;t be stronger and overcome this adversity in our own strength.</p>
 <p>Yet, are these questions really as perplexing as they seem? In scripture God doesn’t say all we need is our self-sufficiency. He created this relationship of dependence and reliance on a God, who is bigger than our situation and personal abilities.</p>

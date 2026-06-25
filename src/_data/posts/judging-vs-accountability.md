@@ -7,10 +7,10 @@ date: "2012-06-27T17:51:56+00:00"
 modified: "2015-01-15T13:36:56+00:00"
 author: "Grace Houle"
 excerpt: "We live in a very open minded society. Anything and everything goes. Dare we say anything contrary to the “Live as you please” mentality it is considered judging. But does everything really fall into the judging category? When does accountability take effect and how can we avoid judging?"
-featuredImage: "/wp-content/uploads/2012/06/court-510750_1280.jpg"
+featuredImage: "/assets/uploads/2012/06/court-510750_1280.jpg"
 featuredCaption: ""
 categories: [{"id":174,"name":"Judging","slug":"judging","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/judging/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p class="intro">We live in a very open minded society. Anything and everything goes. Dare we say anything contrary to the “Live as you please” mentality it is considered judging. But does everything really fall into the judging category? When does accountability take effect and how can we avoid judging?</p>
 <p>First off, what do these words mean? Judging is defined as, one who makes estimates as of worth or quality. While accountability means, liable to being called to account; answerable.</p>

@@ -7,10 +7,10 @@ date: "2011-10-20T16:22:22+00:00"
 modified: "2015-01-16T16:34:32+00:00"
 author: "Sue Robertson"
 excerpt: "What is the difference between sharing information and gossiping. What does the Bible say about gossip? A biblical definition of gossip is: one who reveals secrets, one who goes about as a talebearer or scandal-monger. So how do we carry this into our everyday lives?"
-featuredImage: "/wp-content/uploads/2011/10/woman-420750_1280.jpg"
+featuredImage: "/assets/uploads/2011/10/woman-420750_1280.jpg"
 featuredCaption: ""
 categories: [{"id":132,"name":"Gossip","slug":"gossip","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/gossip/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <h2>Rule 1: Avoiding gossip</h2>
 <h3>Definition of gossip:</h3>

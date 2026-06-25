@@ -7,10 +7,10 @@ date: "2013-06-12T19:31:11+00:00"
 modified: "2015-01-12T14:16:30+00:00"
 author: "Grace Houle"
 excerpt: "As a Christian, it is hard to assess how to handle conflict, at least it is for me. Verses like “keep no record of wrongs,” and “turn the other cheek,” play in my mind as I question how to deal with this mounting frustration. In a perfect scenario I would be able to overlook every offense thrown my way, unfortunately I have not reached that point yet. Things still bother me. I still have hard days where someone cutting me off on the coffee line could initiate the stink eye. So how do we address people Biblically? Does God expect us to brush everything under the rug?"
-featuredImage: "/wp-content/uploads/2013/06/handle-conflict.jpg"
+featuredImage: "/assets/uploads/2013/06/handle-conflict.jpg"
 featuredCaption: ""
 categories: [{"id":130,"name":"Conflict","slug":"conflict","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/conflict/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">As a Christian, it is hard to assess how to handle conflict, at least it is for me. Verses like “keep no record of wrongs,” and “turn the other cheek,” play in my mind as I question how to deal with this mounting frustration. In a perfect scenario I would be able to overlook every offense thrown my way, unfortunately I have not reached that point yet. Things still bother me. I still have hard days where someone cutting me off on the coffee line could initiate the stink eye. So how do we address people Biblically? Does God expect us to brush everything under the rug?</p>
 <p>1. Pray for wisdom in addressing the person so that your words may be laced with love, as opposed to a rattlesnakes strike.</p>

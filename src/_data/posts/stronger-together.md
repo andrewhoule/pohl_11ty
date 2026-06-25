@@ -7,10 +7,10 @@ date: "2011-03-21T17:01:46+00:00"
 modified: "2015-01-21T13:43:05+00:00"
 author: "Grace Houle"
 excerpt: "We have to admit life is hard sometimes. We struggle to find time for the basic essentials of life, like eating and drinking. So why would we even fathom the idea of adding something else to our busy schedule? I was reading about Peter today; the all too familiar passage where Peter denies Christ three times (Mark 14:66-72)."
-featuredImage: "/wp-content/uploads/2011/03/stronger-together.jpg"
+featuredImage: "/assets/uploads/2011/03/stronger-together.jpg"
 featuredCaption: ""
 categories: [{"id":61,"name":"Church","slug":"church","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/church/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <h2>Why attend Church/Bible Study?</h2>
 <h3>We are more vulnerable when we are Alone</h3>

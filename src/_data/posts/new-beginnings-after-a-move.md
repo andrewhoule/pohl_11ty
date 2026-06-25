@@ -7,10 +7,10 @@ date: "2011-05-04T18:07:55+00:00"
 modified: "2015-01-12T04:34:37+00:00"
 author: "Grace Houle"
 excerpt: "I have to admit that I've been in a funk lately… Ok for 2 years on and off. We moved to Western, NY about 2 ½ years ago. A week after we moved 6 hours from all our family and friends we found out we were pregnant with our first child. No family, no friends, new beginnings."
-featuredImage: "/wp-content/uploads/2011/05/IMG_0227.jpg"
+featuredImage: "/assets/uploads/2011/05/IMG_0227.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>I have to admit that I&#8217;ve been in a funk lately… Ok for 2 years on and off. We moved to Western, NY about 2 ½ years ago. A week after we moved 6 hours from all our family and friends we found out we were pregnant with our first child.</p>
 <p>No family, no friends, new beginnings.</p>

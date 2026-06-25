@@ -7,10 +7,10 @@ date: "2011-08-04T13:03:36+00:00"
 modified: "2015-03-21T20:15:52+00:00"
 author: "Grace Houle"
 excerpt: "When times are good isn’t it easy to trust the God who holds the world in His hand? But when times are hard our insecurities mount. Our trust and security start to flee. It is then that we are unmasked. Do we truly trust? Are we holding on strong enough to our Fathers hem, believing Him at His word."
-featuredImage: "/wp-content/uploads/2011/08/Trusting-God.jpg"
+featuredImage: "/assets/uploads/2011/08/Trusting-God.jpg"
 featuredCaption: "Photo credit: Morgan Sessions"
 categories: [{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>All I have seen teaches me to trust the Creator for all I have not seen.</p></blockquote>
 <p><cite>Ralph Waldo Emerson</cite></p>

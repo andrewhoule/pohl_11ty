@@ -7,10 +7,10 @@ date: "2012-09-10T20:31:54+00:00"
 modified: "2015-03-02T13:12:08+00:00"
 author: "Grace Houle"
 excerpt: "What must one experience before they bend their knee? Whether we are a Christian or not we still struggle with our independent ways. Although we may not think it, sometimes our actions portray that we think our ways are higher than Gods, as we follow our “own” path, whatever feels good or makes sense at the time, even if it is sinning, and not beneficial. God cares about us too much for that. So He will draw us to Him with whatever means necessary."
-featuredImage: "/wp-content/uploads/2012/09/repentance.jpg"
+featuredImage: "/assets/uploads/2012/09/repentance.jpg"
 featuredCaption: ""
 categories: [{"id":186,"name":"Repentance","slug":"repentance-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/repentance-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <div class="sidenote">Repentance is from the Greek word <em>Metanoia</em> meaning “A change of mind”</div>
 <p class="intro">What must one experience before they bend their knee? Whether we are a Christian or not we still struggle with our independent ways. Although we may not think it, sometimes our actions portray that we think our ways are higher than Gods, as we follow our “own” path, whatever feels good or makes sense at the time, even if it is sinning, and not beneficial. God cares about us too much for that. So He will draw us to Him with whatever means necessary.</p>

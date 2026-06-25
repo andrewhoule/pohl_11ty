@@ -7,10 +7,10 @@ date: "2013-01-04T17:00:48+00:00"
 modified: "2015-01-12T15:30:07+00:00"
 author: "Grace Houle"
 excerpt: "As swift as the day comes, so it leaves. Life is swirling by faster than we would like to give it credit for, as our clocks and calendars remind us of our routine oriented lives."
-featuredImage: "/wp-content/uploads/2013/01/Are-you-stuck-in-complacency.jpg"
+featuredImage: "/assets/uploads/2013/01/Are-you-stuck-in-complacency.jpg"
 featuredCaption: ""
 categories: [{"id":125,"name":"Perseverance","slug":"perseverance","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/perseverance/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">As swift as the day comes, so it leaves. Life is swirling by faster than we would like to give it credit for, as our clocks and calendars remind us of our routine oriented lives.</p>
 <blockquote><p>You are a mist that appears for a little while and then vanishes.</p></blockquote>

@@ -7,17 +7,17 @@ date: "2013-04-23T19:38:50+00:00"
 modified: "2015-01-16T15:36:16+00:00"
 author: "Grace Houle"
 excerpt: "FlyBy Promotions presented me with the opportunity to do a book review. I get to give a book to one of my readers, and receive one myself, pretty cool deal! I always love getting new books for my kids. We read 3 books every night before bed, 2-3 before nap time, and more throughout the day (especially if the kids butter me up). So needless to say… we love to read!"
-featuredImage: "/wp-content/uploads/2013/04/9781433679643_cvr_web1.jpg"
+featuredImage: "/assets/uploads/2013/04/9781433679643_cvr_web1.jpg"
 featuredCaption: ""
 categories: [{"id":221,"name":"Book Review","slug":"book-review","description":"","parentId":1,"parentName":"More","parentSlug":"more","bannerImage":null,"url":"/category/book-review/"},{"id":211,"name":"Giveaway","slug":"giveaway","description":"","parentId":1,"parentName":"More","parentSlug":"more","bannerImage":null,"url":"/category/giveaway/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 <p><a href="http://www.flybypromotions.com/">FlyBy Promotions</a> presented me with the opportunity to do a book review. I get to give a book to one of my readers, and receive one myself, pretty cool deal!</p>
 <p>I always love getting new books for my kids. We read 3 books every night before bed, 2-3 before nap time, and more throughout the day (especially if the kids butter me up). So needless to say… we love to read!</p>
 <p>I jumped on the chance to read <em><a href="http://www.bhpublishinggroup.com/books/products.asp?p=9781433679643">&#8220;Hey God, I&#8217;ve Got Some Guy Named Jonah in My Stomach and I Think I&#8217;m Gonna Throw Up!&#8221;</a></em> by Troy Schmidt</p>
 <p>This book tells the familiar story of Jonah humorously from the big fish&#8217;s point of view, reminding us that when we disobey, we are not the only ones who we affect. Apparently, the big fish had it rough too!</p>
 <h2>Pros</h2>
-<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-2915" src="/wp-content/uploads/2013/04/2013-04-23-13.48.20-400x300.jpg" alt="2013-04-23 13.48.20" width="400" height="300" srcset="/wp-content/uploads/2013/04/2013-04-23-13.48.20-400x300.jpg 400w, /wp-content/uploads/2013/04/2013-04-23-13.48.20-1200x900.jpg 1200w" sizes="auto, (max-width: 400px) 100vw, 400px" /></p>
+<p><img loading="lazy" decoding="async" class="alignright size-medium wp-image-2915" src="/assets/uploads/2013/04/2013-04-23-13.48.20-400x300.jpg" alt="2013-04-23 13.48.20" width="400" height="300" srcset="/assets/uploads/2013/04/2013-04-23-13.48.20-400x300.jpg 400w, /assets/uploads/2013/04/2013-04-23-13.48.20-1200x900.jpg 1200w" sizes="auto, (max-width: 400px) 100vw, 400px" /></p>
 <ul>
 <li>I thought Cory Jones did a great job with illustrating his book. He uses bright, big pictures to draw the kids’ attention.</li>
 <li>Troy Schmidt uses a witty sense of humor as he writes, which is entertaining for the kids, and even had me chuckle a few times.</li>

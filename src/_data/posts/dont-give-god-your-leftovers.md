@@ -7,10 +7,10 @@ date: "2011-07-14T14:34:52+00:00"
 modified: "2015-01-17T15:43:33+00:00"
 author: "Grace Houle"
 excerpt: "In Genesis 4, two men offer a sacrifice to God. Abel is respected for his offering, Cain is not. Was God against vegetables, the offering brought by Cain? Shouldn't just bringing a sacrifice be sufficient? What is the deeper meaning here?"
-featuredImage: "/wp-content/uploads/2011/07/leftovers.jpg"
+featuredImage: "/assets/uploads/2011/07/leftovers.jpg"
 featuredCaption: ""
 categories: [{"id":122,"name":"Priorities","slug":"priorities","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/priorities/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>In Genesis 4, two men offer a sacrifice to God. Abel is respected for his offering, Cain is not. Was God against vegetables, the offering brought by Cain? Shouldn&#8217;t just bringing a sacrifice be sufficient? What is the deeper meaning here?</p>
 <blockquote><p>If you do well, will you not be accepted? And if you do not do well, sin lies at the door. Then your Father, who sees what is done in secret, will reward you.</p></blockquote>

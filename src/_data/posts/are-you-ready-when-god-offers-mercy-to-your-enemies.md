@@ -7,10 +7,10 @@ date: "2016-02-10T16:33:39+00:00"
 modified: "2016-04-29T00:37:15+00:00"
 author: "Grace Houle"
 excerpt: "Sin corrupts our heart and draws our praise and focus away from a loving God. The people of Nineveh struggled with this depravity. Their harsh forms of dominance and control permeated who they were. Sin consumed them, and overflowed for all to see, blinding their eyes to truth. They worshipped false gods and goddess’ in order to fill their desire for worship, but this idolatrous lifestyle only drew them further away from the one true God."
-featuredImage: "/wp-content/uploads/2016/02/mercy-1429460-1280x660.jpg"
+featuredImage: "/assets/uploads/2016/02/mercy-1429460-1280x660.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":201,"name":"Mercy","slug":"mercy-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/mercy-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":201,"name":"Mercy","slug":"mercy-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/mercy-2/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Sin corrupts our heart and draws our praise and focus away from a loving God. The people of Nineveh struggled with this depravity. Their harsh forms of dominance and control permeated who they were. Sin consumed them, and overflowed for all to see, blinding their eyes to truth. They worshipped false gods and goddess’ in order to fill their desire for worship, but this idolatrous lifestyle only drew them further away from the one true God.</p>
 <div class="pullquote">There is always hope that the God of the impossible will break down walls of hurt and pain that we have built up, to reveal Himself, to show love&#8230; always undeserved.</div>

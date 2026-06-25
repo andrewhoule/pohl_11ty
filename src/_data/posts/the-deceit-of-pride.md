@@ -7,10 +7,10 @@ date: "2011-04-28T13:09:51+00:00"
 modified: "2015-01-12T04:37:57+00:00"
 author: "Grace Houle"
 excerpt: "Pride is a venomous poison that seeps into the lives of even the mightiest of men. It claims self-sufficiency and independence as a focal point for one’s accomplishments. I struggle with this form of pride. Who wants to be dependent on anyone or anything? Yet God is desiring a humble spirit, to realize that we can't live this life in our own strength. Even when we don't give praise and honor to God, He is still where the strength is coming from."
-featuredImage: "/wp-content/uploads/2011/04/deceit-of-pride1.jpg"
+featuredImage: "/assets/uploads/2011/04/deceit-of-pride1.jpg"
 featuredCaption: ""
 categories: [{"id":83,"name":"Pride","slug":"pride","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/pride/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p><em><strong>Pride <small>(definition)</small></strong> &#8211; An excessive belief in one&#8217;s own abilities, that interferes with the individual&#8217;s recognition of the grace of God.</em></p>
 <h2>Pride is Deceptive</h2>

@@ -7,10 +7,10 @@ date: "2012-04-04T16:48:45+00:00"
 modified: "2015-04-07T14:20:45+00:00"
 author: "Grace Houle"
 excerpt: "Love is the greatest commandment, the core and force of the Christian faith. In a world filled with pain and hurt we lose sight of this beautiful gift. We not only fail to receive, but we also fail to give. Then, just when we feel overwhelmed, we are reminded of Gods love through the joy of our children, the friendship of our spouse, the caring ways of a friend, or just a random act of kindness from a stranger. I step back and pause as I am humbled. These outward expressions remind me that I am not alone, that I am loved."
-featuredImage: "/wp-content/uploads/2012/04/heart-583895_1280.jpg"
+featuredImage: "/assets/uploads/2012/04/heart-583895_1280.jpg"
 featuredCaption: ""
 categories: [{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Love is the greatest commandment, the core and force of the Christian faith. In a world filled with pain and hurt we lose sight of this beautiful gift. We not only fail to receive, but we also fail to give. Then, just when we feel overwhelmed, we are reminded of Gods love through the joy of our children, the friendship of our spouse, the caring ways of a friend, or just a random act of kindness from a stranger. I step back and pause as I am humbled. These outward expressions remind me that I am not alone, that I am loved.</p>
 <blockquote><p>God is love.</p></blockquote>

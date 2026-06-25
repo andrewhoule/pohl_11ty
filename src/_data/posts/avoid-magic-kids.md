@@ -7,10 +7,10 @@ date: "2014-07-22T17:33:08+00:00"
 modified: "2017-01-02T03:00:09+00:00"
 author: "Grace Houle"
 excerpt: "I flip through the television channels as magic and sorcery is strewn through cartoons masquerading itself with innocence and enchantment, blurring lines with childlike imagination and deep spiritual darkness. The thought that these could go hand in hand is weird, yet they almost seamlessly do. As though it's a game of ring around the rosies. On main stream television it is almost impossible to find something without magic. Then the pick and choose battle begins, or as some parents I respect do, go without TV. Wondering what will cause the greatest impact?"
-featuredImage: "/wp-content/uploads/2014/07/Magic.jpg"
+featuredImage: "/assets/uploads/2014/07/Magic.jpg"
 featuredCaption: ""
 categories: [{"id":250,"name":"Magic","slug":"magic","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/magic/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p>I flip through the television channels as magic and sorcery is strewn through cartoons and prime time TV masquerading itself with innocence and enchantment; blurring lines with childlike imagination and deep spiritual darkness. The thought that these could go hand in hand is weird, yet they almost seamlessly do. As though it&#8217;s a game of ring around the rosies. On main stream television it is almost impossible to find something without magic. Then the pick and choose battle begins, or as some parents I respect do, go without TV. Wondering what will cause the greatest impact?</p>
 <blockquote><p>There are two equal and opposite errors into which our race can fall about the devils. One is to disbelieve in their existence. The other is to believe, and to feel an unhealthy interest in them. They themselves are equally pleased by both errors and hail a materialist or a magician with the same delight.</p></blockquote>

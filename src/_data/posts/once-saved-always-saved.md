@@ -7,10 +7,10 @@ date: "2011-03-11T17:06:11+00:00"
 modified: "2015-04-18T17:50:30+00:00"
 author: "Grace Houle"
 excerpt: "Once saved, always saved? When meditating on this profound issue, some questions arise. Were you ever saved to begin with, did you experience life changing impact of Jesus Christ? Can you lose your salvation if you truly accepted Jesus as your personal Lord and Savior?"
-featuredImage: "/wp-content/uploads/2011/03/summit-cross-225578_1280.jpg"
+featuredImage: "/assets/uploads/2011/03/summit-cross-225578_1280.jpg"
 featuredCaption: ""
 categories: [{"id":40,"name":"Salvation","slug":"salvation","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/salvation/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Once saved, always saved? When meditating on this profound topic, some questions arise.</p>
 <ul>

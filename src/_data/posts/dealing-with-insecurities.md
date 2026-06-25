@@ -7,10 +7,10 @@ date: "2012-10-02T01:19:02+00:00"
 modified: "2015-01-13T03:41:56+00:00"
 author: "Grace Houle"
 excerpt: "Are they going to like me? Why aren't I as pretty as her? Are they going to listen if I share my heart? Am I dispensable? Am I capable enough? What person doesn’t deal with insecurities of some shape or form? Sometimes if they are bad enough, they take on a life of their own, even directing and controlling our actions. I struggle with insecurities; it seems like they manifest more heavily when I am feeling tired or already drained emotionally. I don’t think we have to stay in the position of succumbing to our insecurities. We can rise above them, but in order to overcome insecurities we have to learn what it means to be secure."
-featuredImage: "/wp-content/uploads/2012/10/insecurities.jpg"
+featuredImage: "/assets/uploads/2012/10/insecurities.jpg"
 featuredCaption: ""
 categories: [{"id":55,"name":"Fear","slug":"fear","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/fear/"},{"id":187,"name":"Insecurity","slug":"insecurity","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/insecurity/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">Are they going to like me? Why aren&#8217;t I as pretty as her? Are they going to listen if I share my heart? Am I dispensable? Am I capable enough? What person doesn’t deal with insecurities of some shape or form? Sometimes if they are bad enough, they take on a life of their own, even directing and controlling our actions. I struggle with insecurities; it seems like they manifest more heavily when I am feeling tired or already drained emotionally. I don’t think we have to stay in the position of succumbing to our insecurities. We can rise above them, but in order to overcome insecurities we have to learn what it means to be secure.</p>
 <h2>Insecurities Limit Us</h2>

@@ -7,10 +7,10 @@ date: "2015-10-02T12:33:00+00:00"
 modified: "2016-04-29T00:39:08+00:00"
 author: "Grace Houle"
 excerpt: "Each day brings with it new opportunities to learn faith and trust in God. Kids sprinkle in more of these opportunities as we rely on God with their safety and provision (can I hear an Amen). Yet kids can also teach us..."
-featuredImage: "/wp-content/uploads/2015/09/faith-like-a-child.jpg"
+featuredImage: "/assets/uploads/2015/09/faith-like-a-child.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Each day brings with it new opportunities to learn faith and trust in God. Kids sprinkle in more of these opportunities as we rely on God with their safety and provision (can I hear an Amen). Yet kids can also teach us a thing or two more about faith. Just the other day it was my son&#8217;s sincere knowledge of who God is that really struck a cord with me. The Creator who made the rain, can certainly make it stop, and Tim was unashamed to ask for it.</p>
 <blockquote><p>My eye is not on the density of the fog, but on the living God who controls every circumstance of my life.</p></blockquote>

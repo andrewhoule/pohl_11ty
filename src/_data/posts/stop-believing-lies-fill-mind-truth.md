@@ -7,10 +7,10 @@ date: "2014-10-20T19:51:31+00:00"
 modified: "2014-10-20T22:47:08+00:00"
 author: "Grace Houle"
 excerpt: "Lies come in many forms, whispering our insecurities as though they carry some entitled information. Whether these lies are self imposed or negativity spread from those around us, you can't dwell on these things. It will suck the life right out of you. Focus on who God sees, a person of value,  a person with purpose, a person who is loved."
-featuredImage: "/wp-content/uploads/2014/10/truth-lies.jpg"
+featuredImage: "/assets/uploads/2014/10/truth-lies.jpg"
 featuredCaption: "Stop Believing Lies... Fill Your Mind with Truth"
-categories: [{"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+categories: [{"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}]
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p class="intro">Lies come in many forms, whispering our insecurities as though they carry some entitled information. Whether these lies are self imposed or negativity spread from those around us, you can&#8217;t dwell on these things. It will suck the life right out of you. Focus on who God sees, a person of value,  a person with purpose, a person who is loved.</p>
 <h3>You are a failure&#8230; Lie.</h3>

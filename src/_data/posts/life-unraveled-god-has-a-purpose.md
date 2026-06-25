@@ -7,10 +7,10 @@ date: "2012-06-13T18:31:16+00:00"
 modified: "2015-01-16T15:49:45+00:00"
 author: "Grace Houle"
 excerpt: "Life doesn’t always seem fair. We struggle with seeing the big picture because we are so fixated on our current struggle. We feel overwhelmed and wonder why God would allow us to walk through this. But God will use even the darkest moments of our life, and breathe purpose into them, if we let Him."
-featuredImage: "/wp-content/uploads/2012/06/rainbow-509500_1280-1.jpg"
+featuredImage: "/assets/uploads/2012/06/rainbow-509500_1280-1.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <div class="pullquote">God will use even the darkest moments of our life, and breathe purpose into them.</div>
 <p class="intro">Life doesn’t always seem fair. We struggle with seeing the big picture because we are so fixated on our current struggle. We feel overwhelmed and wonder why God would allow us to walk through this. But God will use even the darkest moments of our life, and breathe purpose into them, if we let Him.</p>

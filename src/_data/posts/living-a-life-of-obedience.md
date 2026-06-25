@@ -7,10 +7,10 @@ date: "2012-11-08T16:36:45+00:00"
 modified: "2015-01-12T16:43:11+00:00"
 author: "Grace Houle"
 excerpt: "Today is the day for obedience. Oh wait, that doesn’t work for me...ok, how about tomorrow? Wait a second that’s my hair appointment; can I take a rain check? Obedience is a funny thing, you either are or you aren’t going to be obedient. Our slew of excuses range from almost understandable to silly, but no matter what the conclusion is to failing to adhere to the direction God is sending, they all fall into the same garbage heap under the title “excuses.”"
-featuredImage: "/wp-content/uploads/2012/11/obedience.jpg"
+featuredImage: "/assets/uploads/2012/11/obedience.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Today is the day for obedience. Oh wait, that doesn’t work for me&#8230;ok, how about tomorrow? Wait a second that’s my hair appointment; can I take a rain check? Obedience is a funny thing, you either are or you aren’t going to be obedient. Our slew of excuses range from almost understandable to silly, but no matter what the conclusion is to failing to adhere to the direction God is sending, they all fall into the same garbage heap under the title “excuses.”</p>
 <blockquote><p>Still another said, &#8220;I will follow you, Lord; but first let me go back and say goodbye to my family.&#8221; Jesus replied, &#8220;No one who puts his hand to the plow and looks back is fit for service in the kingdom of God.&#8221;</p></blockquote>

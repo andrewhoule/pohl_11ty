@@ -7,10 +7,10 @@ date: "2013-07-29T18:25:21+00:00"
 modified: "2015-02-21T20:18:24+00:00"
 author: "Grace Houle"
 excerpt: "We live in a land of abundance. We have two of everything, and what we don't have extra of it is on our wish list. We have three kids; my husband works hard, and we are good budgeters knowing what monetarily comes and goes. Lately, I was yearning for extra: extra in the bank account, extra to go out to eat or buy a new outfit. We are buying our first house, so our tight budget is even tighter. I guess I am feeling the squeeze. Yet through this moment I took some time to reflect on last year."
-featuredImage: "/wp-content/uploads/2013/07/Our_Daily_Bread_by_Tonyryna-e1412948389642.jpg"
+featuredImage: "/assets/uploads/2013/07/Our_Daily_Bread_by_Tonyryna-e1412948389642.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>The Israelites did as they were told; some gathered much, some little. And when they measured it by the omer, the one who gathered much did not have too much, and the one who gathered little did not have too little. Everyone had gathered just as much as they needed. Then Moses said to them, “No one is to keep any of it until morning. However, some of them paid no attention to Moses; they kept part of it until morning, but it was full of maggots and began to smell.</p></blockquote>
 <p><cite>Exodus 16:17-20</cite></p>

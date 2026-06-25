@@ -7,10 +7,10 @@ date: "2012-07-30T13:37:30+00:00"
 modified: "2015-01-12T04:13:10+00:00"
 author: "Grace Houle"
 excerpt: "If only life was always filled with roses, where no pain could penetrate our heart; or our clocks would stop long enough for us to revel in the moment and be thankful. Then, it would always be easy to maintain our joy. But what happens when life isn’t going smoothly, when it takes all your effort to stay above water? What then? I have felt pain, and I have felt joy. Here are some ways I am able to keep my joy a little longer."
-featuredImage: "/wp-content/uploads/2012/07/13433417941.jpg"
+featuredImage: "/assets/uploads/2012/07/13433417941.jpg"
 featuredCaption: "Two of my joys!"
 categories: [{"id":180,"name":"Joy","slug":"joy-2","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/joy-2/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">If only life was always filled with roses, where no pain could penetrate our heart; or our clocks would stop long enough for us to revel in the moment and be thankful. Then, it would always be easy to maintain our joy. But what happens when life isn’t going smoothly, when it takes all your effort to stay above water? What then? I have felt pain, and I have felt joy. Here are some ways I am able to keep my joy a little longer.</p>
 <h2>Rest in God</h2>

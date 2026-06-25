@@ -7,10 +7,10 @@ date: "2012-04-13T13:21:18+00:00"
 modified: "2020-05-17T19:02:59+00:00"
 author: "Grace Houle"
 excerpt: "“Oh my God”, \"For God's Sake\", \"Swear to God\" are phrases used by Christians and non-Christians alike. They flow off the tongue without hesitation, but should they? The Ten Commandments are the most fundamental of laws, ranging from don't steal to don't murder. In this cluster of valuable commandments \"Thou shalt not use God’s name in vain\" is listed third. Yet, it has been tossed to the side over the years. It may seem trivial to some, but in essence, it’s lowering the name of God to a filler word. Eeks!"
-featuredImage: "/wp-content/uploads/2012/04/ten-commandments-187967_1280.jpg"
+featuredImage: "/assets/uploads/2012/04/ten-commandments-187967_1280.jpg"
 featuredCaption: ""
 categories: [{"id":116,"name":"Sin","slug":"sin","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/sin/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>“Oh my God”, &#8220;For God&#8217;s Sake&#8221;, &#8220;Swear to God&#8221; are phrases used by Christians and non-Christians alike. They flow off the tongue without hesitation, but should they?</p>
 <h2>The Ten Commandments</h2>

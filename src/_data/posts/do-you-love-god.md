@@ -7,10 +7,10 @@ date: "2012-08-27T20:09:30+00:00"
 modified: "2015-01-15T02:42:57+00:00"
 author: "Grace Houle"
 excerpt: "After you ask Jesus into your heart a question still remains, are you willing to have “Agape” love for God or “Phileo” love? Are you willing for your life to be transformed and make a difference in others, or are you going to sit on the sidelines and just be comfortable?"
-featuredImage: "/wp-content/uploads/2012/08/love-God.jpg"
+featuredImage: "/assets/uploads/2012/08/love-God.jpg"
 featuredCaption: ""
 categories: [{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">After you ask Jesus into your heart a question still remains, are you willing to have “Agape” love for God or “Phileo” love? Are you willing for your life to be transformed and make a difference in others, or are you going to sit on the sidelines and just be comfortable?</p>
 <p><em>Agape Love:</em> Agape is selfless, sacrificial, unconditional love, the highest of the four types of love in the Bible. It portrays a willing heart to be obedient to God, even if it inconveniences you, or is hard for you. It is Christ emanating His love through you because He is love.</p>

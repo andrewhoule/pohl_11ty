@@ -7,10 +7,10 @@ date: "2014-09-15T19:58:39+00:00"
 modified: "2014-10-10T14:06:06+00:00"
 author: "Grace Houle"
 excerpt: "I am about to get all #realtalk for a minute. Some times people annoy us. It could have been the person who stole your parking spot, or a rude comment; perhaps, it was someone being unsupportive or cold. Whatever the reason, sometimes we are on our last cherry coated straw, and it wouldn't matter if the situation deserved our annoyance or not, they are going to get it; because at that moment, that final straw equals the stubbed toe from earlier, the burnt breakfast, the lost keys, the extra bill, the friend who you don't talk to anymore. It's a culmination of annoyances that haven't been shaken off yet."
-featuredImage: "/wp-content/uploads/2014/09/how-to-handle-being-annoyed.jpg"
+featuredImage: "/assets/uploads/2014/09/how-to-handle-being-annoyed.jpg"
 featuredCaption: ""
 categories: [{"id":270,"name":"Annoyance","slug":"annoyance","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/annoyance/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">I am about to get all #realtalk for a minute. Some times people annoy us. It could have been the person who stole your parking spot, or a rude comment; perhaps, it was someone being unsupportive or cold. Whatever the reason, sometimes we are on our last cherry coated straw, and it wouldn&#8217;t matter if the situation deserved our annoyance or not, they are going to get it; because at that moment, that final straw equals the stubbed toe from earlier, the burnt breakfast, the lost keys, the extra bill, the friend who you don&#8217;t talk to anymore. It&#8217;s a culmination of annoyances that haven&#8217;t been shaken off yet.</p>
 <h2>So what do we do, when annoyance stirs up?</h2>

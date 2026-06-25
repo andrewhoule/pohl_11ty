@@ -7,10 +7,10 @@ date: "2011-07-06T16:07:41+00:00"
 modified: "2015-03-20T02:39:05+00:00"
 author: "Grace Houle"
 excerpt: "The smell of coffee in the morning, the laughter of children when you are tired with exhaustion, the faithful husband who works to provide, the quiet moments with God.  Thanksgiving is an intentional action of gratitude for our many blessings. Unfortunately, in today's society, it is much like the Robert Frost Poem, “The Road Not Taken.” We are so overwhelmed with our day to day tasks, we lose sight of our many blessings. We fail to stop to and be thankful for all that we have."
-featuredImage: "/wp-content/uploads/2011/07/Thankfulness.jpg"
+featuredImage: "/assets/uploads/2011/07/Thankfulness.jpg"
 featuredCaption: ""
 categories: [{"id":120,"name":"Thanksgiving","slug":"thanksgiving","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/thanksgiving/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>This article is largely derived from the revolutionary book <em><a title="One Thousand Gifts" href="http://www.amazon.com/gp/product/0310321913/ref=as_li_ss_tl?ie=UTF8&amp;tag=myi0a-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0310321913">One Thousand Gifts</a></em> by Ann Voskamp. It is a must read.</p>
 <p>Thanksgiving: <em>Eucharisteo</em> A prayer expressing gratitude</p>

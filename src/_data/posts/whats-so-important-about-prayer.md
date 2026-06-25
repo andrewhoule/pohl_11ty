@@ -7,10 +7,10 @@ date: "2011-09-23T19:08:20+00:00"
 modified: "2015-02-06T02:40:16+00:00"
 author: "Grace Houle"
 excerpt: "My mind drifts as I think of everything I need to do. Is their time to pause? Is their time to pray? Maybe I could multitask? Watch the kids, clean the dishes, plan my day's agenda all while giving a shout out for uncle Jim’s stubbed toe. Sure, God hears us anywhere we pray, but are we praying in a reverent way? In a way that we expect mountains to move? In a way that we are bowing to a risen King? I have tried both types of prayer, and from personal experience, pausing, and taking my time to focus and humble my spirit to Christ is the way to go."
-featuredImage: "/wp-content/uploads/2011/09/sunset-585334_1280.jpg"
+featuredImage: "/assets/uploads/2011/09/sunset-585334_1280.jpg"
 featuredCaption: ""
 categories: [{"id":118,"name":"Prayer","slug":"prayer","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/prayer/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p><em>Prayer</em>: A reverent petition made to God</p>
 <p>Humbling our heart to a God we can’t see. Does it make a difference? Is it worth our time?</p>

@@ -7,10 +7,10 @@ date: "2014-08-21T14:09:59+00:00"
 modified: "2014-10-10T14:09:13+00:00"
 author: "Grace Houle"
 excerpt: "Whether consciously or subconsciously thoughts are constantly filtering in and out of our heads, as we establish game plans for our days, weeks, and months, but how often does it go as smoothly as hoped, or exactly as we originally desired?  Sometimes we can become so focused on what we think should happen, we ignore God directing us down a different path."
-featuredImage: "/wp-content/uploads/2014/08/forcingyourownwill.jpg"
+featuredImage: "/assets/uploads/2014/08/forcingyourownwill.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Whether consciously or subconsciously thoughts are constantly filtering in and out of our heads, as we establish game plans for our days, weeks, and months, but how often does it go as smoothly as hoped, or exactly as we originally desired?  Sometimes we can become so focused on what we think should happen, we ignore God directing us down a different path.</p>
 <p>I was watching my daughter&#8217;s dance recital a few months back and about ¾ of the way through the performance my camera’s memory was full. Instead of putting the camera to the side, I tried feverishly to delete some unnecessary photos in an attempt to capture some extra moments of film. However, in my distracted state, I missed part of the performance. When the recital ended, I felt horrible! I hadn’t deleted enough memory, nor did I visually see that part of the performance.</p>

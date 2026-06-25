@@ -7,10 +7,10 @@ date: "2012-10-22T13:24:23+00:00"
 modified: "2015-01-13T03:53:37+00:00"
 author: "Grace Houle"
 excerpt: "Why God? Why me? Why do hardships come and trials rage around us? We question. We grow discouraged. Yet, aren’t we supposed to be thankful in all things? How is this possible when we can barely keep our head above water?"
-featuredImage: "/wp-content/uploads/2012/10/Praising-God.jpg"
+featuredImage: "/assets/uploads/2012/10/Praising-God.jpg"
 featuredCaption: ""
 categories: [{"id":93,"name":"Trials","slug":"trials","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trials/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Why God? Why me? Why do hardships come and trials rage around us? We question. We grow discouraged. Yet, aren’t we supposed to be thankful in all things? How is this possible when we can barely keep our head above water?</p>
 <blockquote><p>Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.</p></blockquote>
@@ -20,7 +20,7 @@ displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parent
 <h2>And yet, despite the pain… there is peace. How?</h2>
 <blockquote><p>And we know that in all things God works for the good of those who love him, who have been called according to his purpose.</p></blockquote>
 <p><cite>Romans 8:28</cite></p>
-<p><img loading="lazy" decoding="async" class="alignright wp-image-4646 size-medium" src="/wp-content/uploads/2012/10/jayden-300x400.jpg" alt="jayden" width="300" height="400" srcset="/wp-content/uploads/2012/10/jayden-300x400.jpg 300w, /wp-content/uploads/2012/10/jayden-563x750.jpg 563w" sizes="auto, (max-width: 300px) 100vw, 300px" /><br />
+<p><img loading="lazy" decoding="async" class="alignright wp-image-4646 size-medium" src="/assets/uploads/2012/10/jayden-300x400.jpg" alt="jayden" width="300" height="400" srcset="/assets/uploads/2012/10/jayden-300x400.jpg 300w, /assets/uploads/2012/10/jayden-563x750.jpg 563w" sizes="auto, (max-width: 300px) 100vw, 300px" /><br />
 I sit here after semi bed rest, which lasted from 24 weeks gestation till 35 weeks gestation, with weekly progesterone shots to supplement this care package. But I marvel, as I look at my handsome baby boy. Healthy and content, there is an appreciation that lends itself when things are not handed to us on a silver platter, lessons and growth that we may never have learned without these thorns in the flesh. My baby’s name is Jayden, which means, “Heard by God.” God hears our prayers, and although we may not willfully choose to walk through our trial, there is a reason why a loving God does not take them away.</p>
 <blockquote><p>Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; <sup> </sup>perseverance, character; and character, hope. And hope does not put us to shame, because God’s love has been poured out into our hearts through the Holy Spirit, who has been given to us.</p></blockquote>
 <p><cite>Romans 5:3-5</cite></p>

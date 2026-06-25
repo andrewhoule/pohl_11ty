@@ -7,10 +7,10 @@ date: "2012-06-18T13:21:39+00:00"
 modified: "2015-01-16T15:39:46+00:00"
 author: "Grace Houle"
 excerpt: "A friend is a trustworthy confidante and companion that you share your life with, some stay for a season, others for a lifetime. It is the necessary companionship that we all long for; the deep binding friendship that ties our heart to another."
-featuredImage: "/wp-content/uploads/2012/06/unnamed.jpg"
+featuredImage: "/assets/uploads/2012/06/unnamed.jpg"
 featuredCaption: ""
 categories: [{"id":170,"name":"Friendship","slug":"friendship","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/friendship/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">A friend is a trustworthy confidante and companion that you share your life with, some stay for a season, others for a lifetime. It is the necessary companionship that we all long for; the deep binding friendship that ties our heart to another.</p>
 <p>There are so many ties that bind us. Perhaps it is commonalities or a shared life event (good or bad). It could be the qualities you admire in them, or perhaps they are so different than you, they intrigue you.</p>

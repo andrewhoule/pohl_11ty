@@ -7,10 +7,10 @@ date: "2011-07-21T18:06:17+00:00"
 modified: "2015-01-28T03:10:07+00:00"
 author: "Grace Houle"
 excerpt: "As we view how our children respond to us, we receive a visual of our relationship with our Heavenly Father. My daughter (Isabella, but we call her Izzy) just started crawling; wherever I am in the house, she will find me. Her determination makes my heart soar, because I am her prize. She huffs and puffs, crawling until she can’t push any farther. She rests for a second and then keeps on going."
-featuredImage: "/wp-content/uploads/2011/07/IMG_0742.jpg"
+featuredImage: "/assets/uploads/2011/07/IMG_0742.jpg"
 featuredCaption: ""
 categories: [{"id":125,"name":"Perseverance","slug":"perseverance","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/perseverance/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>You will seek me and find me when you seek me with all your heart.</p></blockquote>
 <p><cite>Jeremiah 29:13</cite></p>

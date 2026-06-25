@@ -10,7 +10,7 @@ excerpt: "Although time was limited this past month, I still felt privileged tha
 featuredImage: null
 featuredCaption: null
 categories: [{"id":221,"name":"Book Review","slug":"book-review","description":"","parentId":1,"parentName":"More","parentSlug":"more","bannerImage":null,"url":"/category/book-review/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 <div class="sidenote">Note to self: Don&#8217;t offer to do a book review in the middle of buying your first home!</div>
 <p class="intro">Although time was limited this past month, I still felt privileged that <a href="http://www.flybypromotions.com">Fly By Promotions</a> gave me the opportunity to do 2 book reviews; with the incentive of being able to gift these 2 books to one blessed individual.</p>

@@ -7,10 +7,10 @@ date: "2013-10-09T13:20:50+00:00"
 modified: "2014-11-07T14:52:54+00:00"
 author: "Grace Houle"
 excerpt: "These last couple of weeks have been dicey. The busyness that accompanies a transition to a new house has certainly effected me and my family. It has taken time to fall into a new routine; no wonder God reminded me to pray for patience this morning."
-featuredImage: "/wp-content/uploads/2013/10/fam.jpg"
+featuredImage: "/assets/uploads/2013/10/fam.jpg"
 featuredCaption: "Our family camping trip this year."
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p class="intro">These last couple of weeks have been dicey. My family and I are transitioning to a new house, so it has taken some time to form a new routine and structure amongst the busyness and adjustment. No wonder God reminded me to pray for patience this morning.</p>
 <p>The other day we were walking out of Family Dollar when my oldest decided he was in &#8220;need&#8221; of a gumball. &#8220;No&#8221; was not an acceptable answer so he decided to park it right there, and not move. Oh joy! As I “guided” my strong willed toddler to the car he persisted on not getting in, or getting buckled up. As I struggled to accomplish this task while juggling my infant and other toddler, frustration continued to mount and he started hitting me. “Really?” I think to myself, is this really happening, all because of the denial of a gumball? I&#8217;ve heard of child abuse&#8230; How come no one ever talks about &#8220;parent abuse?&#8221; Every child is so uniquely different.</p>

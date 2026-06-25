@@ -7,10 +7,10 @@ date: "2013-05-21T18:29:19+00:00"
 modified: "2015-01-12T03:42:16+00:00"
 author: "Grace Houle"
 excerpt: "The truths of a loving relationship penetrates my heart. The simple truth that God wants everyone to know and hear. When Jesus died on the cross, it was before we had a relationship with Him. He was dying for those who spit on Him as He walked the road to the cross, for sinners like you and me."
-featuredImage: "/wp-content/uploads/2013/05/IMG_1559.jpg"
+featuredImage: "/assets/uploads/2013/05/IMG_1559.jpg"
 featuredCaption: ""
 categories: [{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>On my way to the farmer&#8217;s market one day I strike up a conversation with my children&#8230;</p>
 <p><strong>Me:</strong> You know what guys? I love you so, so much. I love Timmy, and Izzy and Jayden.<br />

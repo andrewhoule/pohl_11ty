@@ -7,10 +7,10 @@ date: "2013-04-10T18:41:32+00:00"
 modified: "2015-01-12T15:05:56+00:00"
 author: "Grace Houle"
 excerpt: "Do I trust God and believe He is who He says He is? Do I have faith to believe without doubting? These questions are invoked when I think of the Christians who have gone before, who walked the talk and saw people's hearts changed. Do I take God at His word, and am I willing to stand on the front lines professing God to be the one He says He is, the One and Only true God?"
-featuredImage: "/wp-content/uploads/2013/04/faith-in-adversity.jpg"
+featuredImage: "/assets/uploads/2013/04/faith-in-adversity.jpg"
 featuredCaption: ""
 categories: [{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <ul>
 <li><strong><em>Trust</em></strong>: Assured reliance on the character, ability, strength, or truth of someone or something.</li>

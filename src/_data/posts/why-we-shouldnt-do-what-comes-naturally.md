@@ -7,10 +7,10 @@ date: "2012-12-13T20:58:33+00:00"
 modified: "2015-01-12T15:39:54+00:00"
 author: "Grace Houle"
 excerpt: "It's so easy to go with the flow. Who wants to be the salmon swimming up stream? Yet, I think that is what we are called to do. We need not be guided by what society says is right or wrong but guided by what God says is. We live in a society that encourages us to do whatever comes naturally, or makes us feel good, but is this really for our benefit or detriment?"
-featuredImage: "/wp-content/uploads/2012/12/dont-do-what-comes-naturally.jpg"
+featuredImage: "/assets/uploads/2012/12/dont-do-what-comes-naturally.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">It&#8217;s so easy to go with the flow. Who wants to be the salmon swimming up stream? Yet, I think that is what we are called to do. We need not be guided by what society says is right or wrong but guided by what God says is. We live in a society that encourages us to do whatever comes naturally, or makes us feel good, but is this really for our benefit or detriment?</p>
 <h2>Natural Man</h2>

@@ -7,10 +7,10 @@ date: "2014-09-18T19:52:37+00:00"
 modified: "2014-10-10T14:05:45+00:00"
 author: "Grace Houle"
 excerpt: "We have goals and hopes that drive us. We know there will be sacrifices and dedication, yet sometimes our goals fall flat on their face before we can even get out of the starting gate. We compare ourselves to others. But God's not comparing us to that person, so why are we?"
-featuredImage: "/wp-content/uploads/2014/09/Stop-Comparing-How-to-stay-focused-on-your-goals.jpg"
+featuredImage: "/assets/uploads/2014/09/Stop-Comparing-How-to-stay-focused-on-your-goals.jpg"
 featuredCaption: ""
 categories: [{"id":269,"name":"Goals","slug":"goals","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/goals/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">We have goals, hopes that drive us. They are reminders of the reasons we are making the sacrifices and dedication needed to keep us focused. Yet sometimes our goals fall flat on their face before we can even get out of the starting gate.</p>
 <p>We compare ourselves to others.</p>

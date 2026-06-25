@@ -15,7 +15,7 @@ bodyClass: page page-bookshelf
   {% endif %}
   <main class="book-content">
     {% for book in books %}
-    <div class="book">
+    <div class="book" id="book-{{ book.slug }}">
       {% if book.image %}
       <div class="book-img">
         <img src="{{ book.image }}" alt="Photo of {{ book.name }}">

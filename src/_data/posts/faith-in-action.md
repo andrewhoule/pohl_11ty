@@ -7,10 +7,10 @@ date: "2012-05-16T16:52:19+00:00"
 modified: "2015-01-16T15:57:56+00:00"
 author: "Grace Houle"
 excerpt: "We lay a prayer before God, a prayer for healing, financial stability, or perhaps for the salvation of a loved one. Whatever the case may be, these prayers resonate in our hearts. We sit; we wait. We check the clock and calendar for time passed on unanswered prayers. Maybe being still and patient is what is required of you, but sometimes God wants us to put our money where our mouth is. He wants us to establish our faith by an action."
-featuredImage: "/wp-content/uploads/2012/05/hand-447040_1280.jpg"
+featuredImage: "/assets/uploads/2012/05/hand-447040_1280.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>We lay a prayer before God, a prayer for healing, financial stability, or perhaps for the salvation of a loved one. Whatever the case may be, these prayers resonate in our hearts. We sit; we wait. We check the clock and calendar for time passed on unanswered prayers. Maybe being still and patient is what is required of you, but sometimes God wants us to put our money where our mouth is. He wants us to establish our faith by an action.</p>
 <blockquote><p>In the same way, faith by itself, if it is not accompanied by action, is dead.</p></blockquote>

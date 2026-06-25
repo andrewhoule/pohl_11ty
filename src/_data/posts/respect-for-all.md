@@ -7,10 +7,10 @@ date: "2012-12-05T16:32:08+00:00"
 modified: "2015-04-20T02:35:52+00:00"
 author: "Grace Houle"
 excerpt: "Some Bible versions say honor, other translations say respect, but the underlining meaning holds the same, it is intended to place value on another human being. People we naturally respect may range from God to a family member, perhaps someone in an authority position. I admire when people show respect to others because it is just as much an earned privilege as it is a choice from the one extending this gracious offer. I feel there are those who earned respect due to noteworthy characteristics and then there are those times we show respect to another because it is the honorable thing to do, whether they deserve respect or not."
-featuredImage: "/wp-content/uploads/2012/12/showing-respect.jpg"
+featuredImage: "/assets/uploads/2012/12/showing-respect.jpg"
 featuredCaption: ""
 categories: [{"id":163,"name":"Respect","slug":"respect","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/respect/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Respect <strong>:</strong> high or special regard <strong>:</strong> <a href="http://www.merriam-webster.com/dictionary/esteem">esteem</a></p>
 <blockquote><p>Honor all men; love the brotherhood, fear God, honor the king.</p></blockquote>

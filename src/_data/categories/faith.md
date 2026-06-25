@@ -6,7 +6,7 @@ description: ""
 parentId: null
 parentName: null
 parentSlug: null
-bannerImage: "http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg"
+bannerImage: "/assets/uploads/2015/01/faith.jpg"
 url: "/category/faith/"
 ---
 

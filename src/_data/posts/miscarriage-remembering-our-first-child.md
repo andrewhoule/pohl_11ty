@@ -7,10 +7,10 @@ date: "2015-02-21T19:01:16+00:00"
 modified: "2016-04-29T00:47:08+00:00"
 author: "Grace Houle"
 excerpt: "You were so young, still forming in my womb, as anticipation of motherhood filled my heart. Everyone around us was so thrilled to hear the announcement that you were on the way. Each passing day I grew more and more excited, longing to hold you, to meet you."
-featuredImage: "/wp-content/uploads/2015/02/miscarriage-remembering-our-first-child22.jpg"
+featuredImage: "/assets/uploads/2015/02/miscarriage-remembering-our-first-child22.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":309,"name":"Trials","slug":"trials-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/trials-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":309,"name":"Trials","slug":"trials-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/trials-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p class="intro">You were so young, still forming in my womb, as anticipation of motherhood filled my heart. Everyone around us was so thrilled to hear the announcement that you were on the way. Each passing day I grew more and more excited, longing to hold you, to meet you.</p>
 <blockquote><p>For you created my inmost being; you knit me together in my mother&#8217;s womb.</p></blockquote>

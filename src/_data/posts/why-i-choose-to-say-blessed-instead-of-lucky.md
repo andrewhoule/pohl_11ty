@@ -7,10 +7,10 @@ date: "2015-06-04T17:53:09+00:00"
 modified: "2016-04-29T00:42:39+00:00"
 author: "Grace Houle"
 excerpt: "I know what you are thinking… trivial. In the big scheme of things, saying blessed instead of lucky has nothing to do with salvation, however, for me it's something I make a conscious effort to do. Here's why. With each word we say we are making a statement. What our beliefs, ideologies, and passions are. Luke 6:45 says, “Out of the heart the mouth speaks.” The power of the tongue is very influential."
-featuredImage: "/wp-content/uploads/2015/06/blessed-instead-of-lucky.jpg"
+featuredImage: "/assets/uploads/2015/06/blessed-instead-of-lucky.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">I know what you are thinking… trivial. In the big scheme of things, saying blessed instead of lucky has nothing to do with salvation, however, for me it&#8217;s something I make a conscious effort to do. Here&#8217;s why.</p>
 <p>With each word we say we are making a statement. What our beliefs, ideologies, and passions are. Luke 6:45 says, <em>“Out of the heart the mouth speaks.”</em> The power of the tongue is very influential.</p>

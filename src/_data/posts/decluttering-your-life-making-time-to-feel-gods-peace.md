@@ -7,10 +7,10 @@ date: "2013-05-10T14:32:27+00:00"
 modified: "2016-02-22T03:27:18+00:00"
 author: "Grace Houle"
 excerpt: "Peaceful that is what I’d call this moment. How is this possible with 3 kids? When I had no kids I felt frazzled, and yet now I am relaxed? What caused this paradigm shift? I stopped living as though I had no kids."
-featuredImage: "/wp-content/uploads/2013/05/2012-06-29-20.02.05-400x4001.jpg"
+featuredImage: "/assets/uploads/2013/05/2012-06-29-20.02.05-400x4001.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p>&nbsp;</p>
 <p class="intro">Peaceful. That is what I’d call this moment. How is this possible with 3 kids? When I had no kids I felt frazzled, and yet now I am relaxed? What caused this paradigm shift?</p>

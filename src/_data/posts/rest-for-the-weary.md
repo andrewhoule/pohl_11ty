@@ -10,7 +10,7 @@ excerpt: "We are a society always on the go, looking to the future instead of ap
 featuredImage: null
 featuredCaption: null
 categories: [{"id":68,"name":"Rest","slug":"rest","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/rest/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <blockquote><p>Come to Me all who are weary, and heavy burden, and I will give you rest.</p></blockquote>
 <p><cite>Matthew 11:28</cite></p>

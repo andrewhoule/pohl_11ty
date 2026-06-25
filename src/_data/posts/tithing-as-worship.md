@@ -7,10 +7,10 @@ date: "2011-02-28T02:44:37+00:00"
 modified: "2015-01-19T02:57:02+00:00"
 author: "Grace Houle"
 excerpt: "Tithing is an act of worship. It is an expression of the heart, that we trust God with our finances even if the numbers don't make sense.  We give God the first fruits, the best off the top, that we have set aside to give.\r\n\r\nIt doesn't matter the ebbs and flows of our financial stance. I know God provides for my needs, as He has proven faithful time and time again, and I will trust Him."
-featuredImage: "/wp-content/uploads/2011/02/tithing.jpg"
+featuredImage: "/assets/uploads/2011/02/tithing.jpg"
 featuredCaption: ""
 categories: [{"id":39,"name":"Tithing","slug":"tithing","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/tithing/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <h2>Tithing</h2>
 <p>Tithing is an act of worship. It is an expression of the heart, that we trust God with our finances even if the numbers don&#8217;t make sense.  We give God the first fruits, the best off the top, that we have set aside to give.</p>

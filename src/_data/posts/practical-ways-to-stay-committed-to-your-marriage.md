@@ -7,10 +7,10 @@ date: "2015-04-25T13:01:17+00:00"
 modified: "2016-04-29T00:43:58+00:00"
 author: "Grace Houle"
 excerpt: "Marriage is a commitment filled with promises that are made between two imperfect people, yet tied together with love and a vow. With the words \"I do\", you promise to love and cherish your spouse. Although society says love can be temporal and disposable, and that it is okay to disregard your vows; God paints a different picture. His is one of perseverance, companionship, love, and devotion."
-featuredImage: "/wp-content/uploads/2015/04/wedding.jpg"
+featuredImage: "/assets/uploads/2015/04/wedding.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p class="intro">Marriage is a commitment filled with promises that are made between two imperfect people, yet tied together with love and a vow. With the words &#8220;I do&#8221;, you promise to love and cherish your spouse. Although society says love can be temporal and disposable, and that it is okay to disregard your vows; God paints a different picture. His is one of perseverance, companionship, love, and devotion.</p>
 <p>Izzy looked down at my wedding bands that rarely leave my ring finger, <em>&#8220;Why do you have two rings mommy?&#8221;</em></p>

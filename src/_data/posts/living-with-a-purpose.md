@@ -10,7 +10,7 @@ excerpt: "It is tempting to focus on everyone else’s strengths, puffing them u
 featuredImage: null
 featuredCaption: null
 categories: [{"id":57,"name":"Purpose","slug":"purpose","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/purpose/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <blockquote><p>Without a purpose, life is motion without meaning, activity without direction, and events without reason. Without a purpose life is trivial, petty, and pointless.</p></blockquote>
 <p><cite>Rick Warren</cite></p>

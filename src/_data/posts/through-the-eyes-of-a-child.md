@@ -7,10 +7,10 @@ date: "2011-04-20T12:07:01+00:00"
 modified: "2015-01-16T21:45:38+00:00"
 author: "Grace Houle"
 excerpt: "Matthew 18:1-4 tells us to become like a child, but what does this mean? Are we to physically transform into a child? No, that would be impossible. What is God telling us here? What are the attributes in a child that God is looking for?"
-featuredImage: "/wp-content/uploads/2011/04/Through-the-eyes-of-a-child.jpg"
+featuredImage: "/assets/uploads/2011/04/Through-the-eyes-of-a-child.jpg"
 featuredCaption: ""
 categories: [{"id":82,"name":"Humility","slug":"humility","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/humility/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of Heaven?&#8221; He called a little child to him, and placed the child among them. And He said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of Heaven. Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of Heaven.&#8221;</p></blockquote>
 <p><cite>Matthew 18:1-4</cite></p>

@@ -7,10 +7,10 @@ date: "2013-08-22T14:59:40+00:00"
 modified: "2015-02-21T19:39:21+00:00"
 author: "Grace Houle"
 excerpt: "Parents have a big responsibility. We are supposed to train and guide our precious children to the best of our abilities. 24 hours in a day does not seem like enough time for this monumental task. Just the other day I was picking up some cold cuts at Walmart when a fellow customer stopped me and asked me what my youngest son was eating. \"What\" I asked, because I hadn't given him anything. To my horror he had ripped off a piece of plastic from the shopping cart handle and was happily sucking on it. “Am I fit for this task?” I questioned myself."
-featuredImage: "/wp-content/uploads/2013/08/How-to-train-a-child.jpg"
+featuredImage: "/assets/uploads/2013/08/How-to-train-a-child.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Parents have a big responsibility. We are supposed to train and guide our precious children to the best of our abilities. 24 hours in a day does not seem like enough time for this monumental task.</p>
 <p>Just the other day I was picking up some cold cuts at Walmart when a fellow customer stopped me and asked me what my youngest son was eating. &#8220;What&#8221; I asked, because I hadn&#8217;t given him anything. To my horror he had ripped off a piece of plastic from the shopping cart handle and was happily sucking on it. “Am I fit for this task?” I questioned myself.</p>

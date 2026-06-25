@@ -7,10 +7,10 @@ date: "2011-04-30T02:04:36+00:00"
 modified: "2015-02-06T02:32:25+00:00"
 author: "Grace Houle"
 excerpt: "Humility has been a prayer of my heart for quite some time. My head knowledge knows that Christ is the only one deserving of praise, yet my heart tries to convince myself that I deserve some of it. This false humility leaves a distaste in my mouth because the very virtue of humility is so pure and genuine. Is anyone in the same boat? How does God say that we can acquire this much desired trait?"
-featuredImage: "/wp-content/uploads/2011/04/2441881332_7232d6a7fb.jpg"
+featuredImage: "/assets/uploads/2011/04/2441881332_7232d6a7fb.jpg"
 featuredCaption: ""
 categories: [{"id":82,"name":"Humility","slug":"humility","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/humility/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>Humility is accepting ourselves as we really are before God</p></blockquote>
 <p>Humility has been a prayer of my heart for quite some time. My head knowledge knows that Christ is the only one deserving of praise, yet my heart tries to convince myself that I deserve some of it. This false humility leaves a distaste in my mouth because the very virtue of humility is so pure and genuine. Is anyone in the same boat? How does God say that we can acquire this much desired trait?</p>

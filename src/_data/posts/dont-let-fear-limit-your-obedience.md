@@ -7,10 +7,10 @@ date: "2015-04-08T12:14:42+00:00"
 modified: "2016-04-29T00:45:16+00:00"
 author: "Grace Houle"
 excerpt: "Fear limits. Faith builds up. I am not referring to the fear of God, out of respect for His authority, rather the kind of fear that limits our obedience to God rather then drawing us closer to Him. Obedience that requires faith, also has an antithesis known as fear, and it is knocking on the door. The unknown breeds a slew of emotions, especially if we question our circumstances rather than the God who called us there."
-featuredImage: "/wp-content/uploads/2015/04/fear.jpg"
+featuredImage: "/assets/uploads/2015/04/fear.jpg"
 featuredCaption: "Photo credit: Ryan Mcguire"
 categories: [{"id":86,"name":"Trust","slug":"trust","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/trust/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Fear limits. Faith builds up. I am not referring to the fear of God, out of respect for His authority, rather the kind of fear that limits our obedience to God rather then drawing us closer to Him. Obedience that requires faith, also has an antithesis of fear, that comes knocking at the door. The unknown breeds a slew of emotions, especially if we question our circumstances rather than depend on God who called us there.</p>
 <p>The Israelites dealt with this paradox on their journey to the Promise Land. God had promised them the land of Canaan, a land flowing with milk and honey, so they sent 12 spies ahead unknowing what to expect. Yet, the obstacles they saw seemed insurmountable, there were giants living in the land. Intimidation and fear crept into most of their hearts and they refused to proceed. They allowed fear to drive their decisions, rather than hold on to God&#8217;s promise. As a result they were forced to wander in the wilderness for 40 years, instead of receiving the blessings that God had already prepared for them.</p>

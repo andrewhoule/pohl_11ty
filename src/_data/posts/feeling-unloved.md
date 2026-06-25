@@ -7,10 +7,10 @@ date: "2015-01-20T14:44:41+00:00"
 modified: "2016-04-29T00:49:09+00:00"
 author: "Grace Houle"
 excerpt: "Sadness, the aching of a bleeding heart, the kind that sometimes seems unfillable? A void. A stillness in the air that echoes in your heart. Have you ever had days like this?"
-featuredImage: "/wp-content/uploads/2015/01/feeling-unloved.jpg"
+featuredImage: "/assets/uploads/2015/01/feeling-unloved.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Sadness, the aching of a bleeding heart, that sometimes seems unfillable? A void. A stillness in the air that echoes your heart. Have you ever had days like this?</p>
 <p>You can list the blessings no problem. A loving family, friends, food, a warm house the list goes on and on of things to be thankful for, yet your heart hurts.</p>

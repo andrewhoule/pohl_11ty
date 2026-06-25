@@ -9,8 +9,8 @@ author: "Grace Houle"
 excerpt: "In a world where we desire tangible or scientific proof to validate what we believe, why would we believe anything by Faith? Many things require faith whether we like it or not. Everyday things, like stepping into a car, flying in a plane, or even going to sleep."
 featuredImage: null
 featuredCaption: null
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>Now faith is confidence in what we hope for and assurance about what we do not see</p></blockquote>
 <p><cite>Heb 11:1</cite></p>

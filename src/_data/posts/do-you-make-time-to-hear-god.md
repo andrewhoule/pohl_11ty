@@ -7,10 +7,10 @@ date: "2015-08-04T13:26:46+00:00"
 modified: "2016-04-29T00:40:28+00:00"
 author: "Grace Houle"
 excerpt: "As a society, we live busy, hurried, loud lives, rushing from one place to another, or one thing to another trying to allow our feet to catch up to our agenda. Even when we have time to pause our minds are cluttered. It would take a big theatrical display of God’s majesty to stop us in our tracks, in order for us to really pay attention to God. Yet, God is not a puppet on display. He is the God of the universe that deserves our attention."
-featuredImage: "/wp-content/uploads/2015/08/still-voice.jpg"
+featuredImage: "/assets/uploads/2015/08/still-voice.jpg"
 featuredCaption: "Photo Credit: Julia Caesar"
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">As a society, we live busy, hurried, loud lives, rushing from one place to another, or one thing to another trying to allow our feet to catch up to our agenda. Even when we have time to pause our minds are cluttered. It would take a big theatrical display of God’s majesty to stop us in our tracks, in order for us to really pay attention to God. Yet, God is not a puppet on display. He is the God of the universe that deserves our attention.</p>
 <blockquote><p> When I consider thy Heavens, the work of thy fingers, the moon and the stars, which thou hast ordained; what is man, that thou art mindful of him? and the son of man, that You visit him?</p></blockquote>

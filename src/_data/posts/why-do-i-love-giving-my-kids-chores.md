@@ -7,10 +7,10 @@ date: "2019-08-14T20:34:00+00:00"
 modified: "2020-06-25T09:13:06+00:00"
 author: "Grace Houle"
 excerpt: "Teaching your kids how to learn certain life skills takes energy, patience, determination, and flexibility as they learn and make mistakes on the way. Yet, the value of teaching how to do chores not only benefits you, but also your child for..."
-featuredImage: "/wp-content/uploads/2019/08/DSC_0087.jpg"
+featuredImage: "/assets/uploads/2019/08/DSC_0087.jpg"
 featuredCaption: "Cody and cousin Nehemiah"
-categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"},{"id":284,"name":"Teaching","slug":"teaching","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/teaching/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"},{"id":284,"name":"Teaching","slug":"teaching","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/teaching/"}]
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 
 <p class="intro">Teaching your kids how to learn certain life skills <strong>takes energy, patience, determination, and flexibility</strong> as they learn and make mistakes on the way. Yet, the value of teaching how to do chores not only benefits you, but also your child for now and the years to come.</p>
@@ -57,7 +57,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 
 
 
-<figure class="wp-block-image"><a href="/wp-content/uploads/2019/08/kids-chore-chart.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="750" height="474" src="/wp-content/uploads/2019/08/chore-chart-750x474.jpg" alt="" class="wp-image-6866" srcset="/wp-content/uploads/2019/08/chore-chart-750x474.jpg 750w, /wp-content/uploads/2019/08/chore-chart-400x253.jpg 400w, /wp-content/uploads/2019/08/chore-chart-768x485.jpg 768w, /wp-content/uploads/2019/08/chore-chart.jpg 1200w" sizes="auto, (max-width: 750px) 100vw, 750px" /></a></figure>
+<figure class="wp-block-image"><a href="/assets/uploads/2019/08/kids-chore-chart.pdf" target="_blank" rel="noopener noreferrer"><img loading="lazy" decoding="async" width="750" height="474" src="/assets/uploads/2019/08/chore-chart-750x474.jpg" alt="" class="wp-image-6866" srcset="/assets/uploads/2019/08/chore-chart-750x474.jpg 750w, /assets/uploads/2019/08/chore-chart-400x253.jpg 400w, /assets/uploads/2019/08/chore-chart-768x485.jpg 768w, /assets/uploads/2019/08/chore-chart.jpg 1200w" sizes="auto, (max-width: 750px) 100vw, 750px" /></a></figure>
 
 
 
@@ -87,7 +87,7 @@ displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId"
 
 
 
-<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="500" src="/wp-content/uploads/2019/08/DSC_0088-750x500.jpg" alt="" class="wp-image-6856" srcset="/wp-content/uploads/2019/08/DSC_0088-750x500.jpg 750w, /wp-content/uploads/2019/08/DSC_0088-400x267.jpg 400w, /wp-content/uploads/2019/08/DSC_0088-768x512.jpg 768w" sizes="auto, (max-width: 750px) 100vw, 750px" /><figcaption>Izzy and cousin Esther</figcaption></figure>
+<figure class="wp-block-image"><img loading="lazy" decoding="async" width="750" height="500" src="/assets/uploads/2019/08/DSC_0088-750x500.jpg" alt="" class="wp-image-6856" srcset="/assets/uploads/2019/08/DSC_0088-750x500.jpg 750w, /assets/uploads/2019/08/DSC_0088-400x267.jpg 400w, /assets/uploads/2019/08/DSC_0088-768x512.jpg 768w" sizes="auto, (max-width: 750px) 100vw, 750px" /><figcaption>Izzy and cousin Esther</figcaption></figure>
 
 
 

@@ -7,10 +7,10 @@ date: "2014-01-28T15:41:05+00:00"
 modified: "2014-10-07T01:28:50+00:00"
 author: "Grace Houle"
 excerpt: "The night was still as the Star of David announced Jesus’ birth. Swaddled in cloth and appearing to have all the same attributes as the sweet babies that have gone before, God makes His appearance to man. After the anticipated journey, the wise men arrived, and in an instant they fell down and worshiped Jesus. They didn't question what they should do, rather they immediately showed the respect God deserves. They were clearly called wise men for a reason."
-featuredImage: "/wp-content/uploads/2014/01/Threewisemen.jpg"
+featuredImage: "/assets/uploads/2014/01/Threewisemen.jpg"
 featuredCaption: ""
 categories: [{"id":163,"name":"Respect","slug":"respect","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/respect/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>The night was still as the Star of David announced Jesus’ birth. Swaddled in cloth and appearing to have all the same attributes as the sweet babies that have gone before, God makes His appearance to man. After the anticipated journey, the wise men arrived, and in an instant they fell down and worshiped Jesus. They didn&#8217;t question what they should do, rather they immediately showed the respect God deserves. They were clearly called wise men for a reason.</p>
 <h2>What example did the wise men express on this beautiful day?</h2>

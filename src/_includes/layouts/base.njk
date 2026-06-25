@@ -6,13 +6,14 @@
   <meta name="description" content="{{ metaDescription or wordpress.site.description }}">
   <meta name="viewport" content="initial-scale=1">
   <meta http-equiv="ClearType" content="true">
-  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="/favicon.ico">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,600,700,300" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic,700italic" rel="stylesheet" type="text/css">
-  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="/assets/css/app.css">
   {% if canonicalUrl %}
   <link rel="canonical" href="{{ canonicalUrl }}">
   {% endif %}
@@ -79,14 +80,25 @@
           </section>
         </div>
       </header>
+      
       <section class="search-wrap utility-nav-dd-item">
-        <form class="search" action="/articles/" method="get">
+        <form class="search" action="/search/" method="get">
           <fieldset>
-            <input class="utility-nav-input search-input" type="text" name="q" value="Search is unavailable on the static site" onfocus="if(this.value=='Search is unavailable on the static site'){this.value='';}" onblur="if(this.value==''){this.value='Search is unavailable on the static site';}">
+            <input class="utility-nav-input search-input" type="search" name="q" placeholder="Search">
             <button type="submit" class="utility-nav-submit search-submit">Go</button>
           </fieldset>
         </form>
       </section>
+
+      <!-- <section class="search-wrap utility-nav-dd-item" style="display: block;">
+        <form class="search" action="/search/" method="get">
+          <fieldset>
+            <input class="utility-nav-input search-input" type="text" id="s" name="s" value="Search..." onfocus="if(this.value=='Search...'){this.value='';}" onblur="if(this.value==''){this.value='Search...';}">
+            <input type="hidden" alt="Search"><button type="submit" class="utility-nav-submit search-submit">Go</button>
+          </fieldset>
+        </form>
+      </section> -->
+
       <section class="subscribe-wrap utility-nav-dd-item">
         <form action="//andyhoule.us1.list-manage.com/subscribe/post?u=38de58b429e8b6c55ddc30b7b&amp;id=d21fc47a77" method="post" class="validate" target="_blank" novalidate>
           <fieldset>
@@ -150,5 +162,6 @@
   <script src="/assets/components/fitvids/jquery.fitvids.js"></script>
   {% endif %}
   <script src="/assets/js/pohl.js"></script>
+  <script src="/assets/js/search.js"></script>
 </body>
 </html>

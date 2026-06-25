@@ -7,10 +7,10 @@ date: "2016-02-22T18:35:30+00:00"
 modified: "2016-02-23T15:01:26+00:00"
 author: "Grace Houle"
 excerpt: "This year I started homeschooling. Pause for a cyber five to all my homeschooling peeps. :) It’s been fun... and challenging... and rewarding! I remember in the beginning doubting even the ability to homeschool. Now, after almost a full year of kindergarten... still having days where I can doubt my ability to homeschool. Let’s be honest with ourselves, even in parenting we can find ourselves here, questioning if we have the strength and capabilities to do a good job. There always will be people who seem more put together than us and those who seem less. Yet, I am grateful for the opportunity to spend the extra time with my daughter and have the privilege to watch her learn and grow throughout the day."
-featuredImage: "/wp-content/uploads/2016/02/still-life-851328_1280.jpg"
+featuredImage: "/assets/uploads/2016/02/still-life-851328_1280.jpg"
 featuredCaption: ""
 categories: [{"id":284,"name":"Teaching","slug":"teaching","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/teaching/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p class="intro">This year I started homeschooling. Pause for a cyber five to all my homeschooling peeps. :) It’s been fun&#8230; and challenging&#8230; and rewarding! I remember in the beginning doubting even the ability to homeschool. Now, after almost a full year of kindergarten&#8230; still having days where I can doubt my ability to homeschool. Let’s be honest with ourselves, even in parenting we can find ourselves here, questioning if we have the strength and capabilities to do a good job. There always will be people who seem more put together than us and those who seem less. Yet, I am grateful for the opportunity to spend the extra time with my daughter and have the privilege to watch her learn and grow throughout the day.</p>
 <blockquote><p>So do not worry about tomorrow; for tomorrow will care for itself. Each day has enough trouble of its own.</p></blockquote>

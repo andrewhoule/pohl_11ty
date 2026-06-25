@@ -7,10 +7,10 @@ date: "2011-12-01T13:20:16+00:00"
 modified: "2015-03-03T13:58:44+00:00"
 author: "Grace Houle"
 excerpt: "In our self gratification society, the idea of making the right choice out of pure obedience kind of blows our minds. Shouldn't we be able to pick and choose what seems right to us? Where does faith and trust fall into this limited world view of obedience? Why is the difference between obeying God out of choice versus emotion so important?"
-featuredImage: "/wp-content/uploads/2011/12/unsplash_52cb185a63c25_1.jpg"
+featuredImage: "/assets/uploads/2011/12/unsplash_52cb185a63c25_1.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>In our self gratification society, the idea of making the right choice out of pure obedience kind of blows our minds. Shouldn&#8217;t we be able to pick and choose what seems right to us? This watered down version of truth, is not truth at all. Where does faith and trust fall into this limited world view of obedience? Why is the difference between obeying God out of choice versus emotion so important?</p>
 <h2>Gods Guidebook</h2>

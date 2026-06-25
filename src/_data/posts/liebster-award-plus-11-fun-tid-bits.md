@@ -7,10 +7,10 @@ date: "2014-11-19T18:52:39+00:00"
 modified: "2014-12-01T03:08:48+00:00"
 author: "Grace Houle"
 excerpt: "I am excited to announce that Poured Out His Love won the Liebster Award! It's an award given to blogs with less than 200 followers in any one social outlet. It's designed to show recognition and appreciation for an up-and-coming blog. Poured Out His Love was nominated by Living Story, a great blog that you should definitely check out; you're sure to receive an extra dose of encouragement this morning!"
-featuredImage: "/wp-content/uploads/2014/11/liebster-award2.jpg"
+featuredImage: "/assets/uploads/2014/11/liebster-award2.jpg"
 featuredCaption: ""
-categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}]
-displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/more.jpg","url":"/category/more/"}
+categories: [{"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}]
+displayCategory: {"id":1,"name":"More","slug":"more","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/more.jpg","url":"/category/more/"}
 ---
 <p class="intro">I am excited to announce that Poured Out His Love won the Liebster Award! It&#8217;s an award given to blogs with less than 200 followers in any one social outlet. It&#8217;s designed to show recognition and appreciation for an up-and-coming blog. Poured Out His Love was nominated by <a href="http://living-story.weebly.com">Living Story</a>, a great blog that you should definitely check out; you&#8217;re sure to receive an extra dose of encouragement this morning!</p>
 <h2>11 Fun Tid Bits About Poured Out His Love</h2>

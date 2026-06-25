@@ -7,10 +7,10 @@ date: "2016-02-01T14:24:15+00:00"
 modified: "2016-04-29T00:37:51+00:00"
 author: "Grace Houle"
 excerpt: "As parents, we are bombarded with information on how to be a good parent. It's overwhelming. Society tells us. Our kids tell us. Other people tell us. It is easy to feel like a failure, even when you give everything you have. We need to quiet out the excess noise, and pare down the hundreds of do's and do not's to what really matters. Setting priorities is essential to avoid the extra unnecessary stressors that distract us from what needs to be our focus. Take the reigns on what's important in parenting and focus less on the frills that won't make or break your child."
-featuredImage: "/wp-content/uploads/2016/02/fam-2.jpg"
+featuredImage: "/assets/uploads/2016/02/fam-2.jpg"
 featuredCaption: ""
 categories: [{"id":287,"name":"Priorities","slug":"priorities-family","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/priorities-family/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p class="intro">As parents, we are bombarded with information on how to be a good parent. It&#8217;s overwhelming. Society tells us. Our kids tell us. Other people tell us. It is easy to feel like a failure, even when you give everything you have. We need to quiet out the excess noise, and pare down the hundreds of do&#8217;s and do not&#8217;s to what really matters. Setting priorities is essential to avoid the extra unnecessary stressors that distract us from what needs to be our focus. Take the reigns on what&#8217;s important in parenting and focus less on the frills that won&#8217;t make or break your child.</p>
 <p>I had the privilege to go on a &#8220;Mommy and me&#8221; day with Tim. Tim was running all about in a local bouncy house called the Fun-E-Farm. I was sitting and admiring, allowing myself the opportunity to watch him be the lover of life that he is. He was making friends, even in just the hour that we were there; something that takes me a lot longer!</p>

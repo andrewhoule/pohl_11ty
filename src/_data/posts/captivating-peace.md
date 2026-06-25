@@ -7,10 +7,10 @@ date: "2011-06-15T12:38:33+00:00"
 modified: "2015-03-20T02:37:23+00:00"
 author: "Grace Houle"
 excerpt: "We all desire peace. The inner contentment that leaves us feeling free from burden and worries. Christ offers us this peace, through times of trials and times of joy. However, more often than not, we do not receive this wonderful attribute of Christ. We are left feeling as defeated as everybody else. When we have a personal relationship with Christ, there should be a peace that others desire and seek out. Why is that not always the case? I’d like to propose some suggestions."
-featuredImage: "/wp-content/uploads/2011/06/captivating-peace.jpg"
+featuredImage: "/assets/uploads/2011/06/captivating-peace.jpg"
 featuredCaption: ""
 categories: [{"id":112,"name":"Peace","slug":"peace","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/peace/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <blockquote><p>And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.</p></blockquote>
 <p><cite>Phillippians 4:7</cite></p>

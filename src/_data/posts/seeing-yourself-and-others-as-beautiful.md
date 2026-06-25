@@ -7,10 +7,10 @@ date: "2011-05-25T13:22:45+00:00"
 modified: "2015-01-16T19:06:11+00:00"
 author: "Grace Houle"
 excerpt: "Handcrafted by a loving Creator, you were etched from your toes to your head. You are not a mistake. Society may say you don't fit the beauty mold, but God looks at you and smiles, knowing that He created you just the way He wanted. Do you think God failed to get the latest fashion magazine to see if you fit today's view of what is beautiful? Over the decades our society's view of beauty has changed but God's has not."
-featuredImage: "/wp-content/uploads/2011/05/10914826_10204970632519722_2609832339123982349_o.jpg"
+featuredImage: "/assets/uploads/2011/05/10914826_10204970632519722_2609832339123982349_o.jpg"
 featuredCaption: ""
 categories: [{"id":105,"name":"Beauty","slug":"beauty","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/beauty/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p><em>Photo credit: by Christine Mcllhenny of daughter Kate :)</em></p>
 <h2>Beautiful You</h2>

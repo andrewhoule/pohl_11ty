@@ -7,10 +7,10 @@ date: "2015-01-12T05:07:16+00:00"
 modified: "2015-01-12T19:49:31+00:00"
 author: "Grace Houle"
 excerpt: "It was 2002, my boyfriend (now husband) and I decided to take the next step in our journey of faith. We both had accepted Jesus as our Lord and Savior and were ready for whatever God had in store for us. So in a local hotel’s pool we openly confessed to others the proclamation that we so intimately made between God."
-featuredImage: "/wp-content/uploads/2015/01/water-baptism.jpg"
+featuredImage: "/assets/uploads/2015/01/water-baptism.jpg"
 featuredCaption: ""
 categories: [{"id":146,"name":"Obedience","slug":"obedience-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/obedience-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p><em>Pictured above Michael Blass baptizing  daughter Anna Blass in India 2012</em></p>
 <blockquote><p>Repent and be baptized…</p></blockquote>

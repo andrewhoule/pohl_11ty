@@ -17,13 +17,18 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy({
-    "assets": "assets"
+    "assets/components": "assets/components",
+    "assets/favicon.ico": "assets/favicon.ico",
+    "assets/favicon.svg": "assets/favicon.svg",
+    "assets/images": "assets/images",
+    "assets/js": "assets/js",
+    "assets/svg": "assets/svg",
+    "assets/uploads": "assets/uploads",
+    "dist/assets/css/app.css": "assets/css/app.css",
+    "dist/assets/css/app.css.map": "assets/css/app.css.map"
   });
   eleventyConfig.addPassthroughCopy({
     "assets/favicon.ico": "favicon.ico"
-  });
-  eleventyConfig.addPassthroughCopy({
-    "wp-content/uploads": "wp-content/uploads"
   });
 
   eleventyConfig.addFilter("postDate", (value) => {
@@ -54,9 +59,12 @@ export default function (eleventyConfig) {
       .replace(/https:\/\/www\.pouredouthislove\.com/gi, "")
       .replace(/http:\/\/pouredouthislove\.com/gi, "")
       .replace(/https:\/\/pouredouthislove\.com/gi, "")
-      .replace(/(src|href)=["']https?:\/\/[^/"']+\/wp-content\/uploads\//gi, '$1="/wp-content/uploads/')
-      .replace(/srcset=["']https?:\/\/[^/"']+\/wp-content\/uploads\//gi, 'srcset="/wp-content/uploads/')
-      .replace(/, https?:\/\/[^/,"']+\/wp-content\/uploads\//gi, ', /wp-content/uploads/');
+      .replace(/(src|href)=["']https?:\/\/[^/"']+\/wp-content\/uploads\//gi, '$1="/assets/uploads/')
+      .replace(/srcset=["']https?:\/\/[^/"']+\/wp-content\/uploads\//gi, 'srcset="/assets/uploads/')
+      .replace(/, https?:\/\/[^/,"']+\/wp-content\/uploads\//gi, ', /assets/uploads/')
+      .replace(/(src|href)=["']\/wp-content\/uploads\//gi, '$1="/assets/uploads/')
+      .replace(/srcset=["']\/wp-content\/uploads\//gi, 'srcset="/assets/uploads/')
+      .replace(/, \/wp-content\/uploads\//gi, ', /assets/uploads/');
   });
 
   eleventyConfig.addFilter("topCategory", (post) => {
@@ -76,6 +84,7 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addFilter("withDefault", (value, fallback) => value || fallback);
   eleventyConfig.addFilter("normalizeUrl", normalizeUrl);
+  eleventyConfig.addFilter("json", (value) => JSON.stringify(value));
 
   return {
     dir: {

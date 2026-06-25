@@ -7,10 +7,10 @@ date: "2014-12-12T21:25:09+00:00"
 modified: "2017-11-30T19:05:55+00:00"
 author: "Grace Houle"
 excerpt: "The snow has already fallen, the Christmas decorations are hung, and thoughts of what Christmas truly means fills my mind. A time of reflection of our Savior, a time of peace. Yet the true meaning of Christmas sometimes slips away as commercials and the \"me\" mentality take its place. We write lists of what we want, and what will make us feel special."
-featuredImage: "/wp-content/uploads/2014/12/tim-christmas.jpg"
+featuredImage: "/assets/uploads/2014/12/tim-christmas.jpg"
 featuredCaption: ""
-categories: [{"id":404,"name":"Advent","slug":"advent","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/advent/"},{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":404,"name":"Advent","slug":"advent","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/advent/"},{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">The snow has already fallen, the Christmas decorations are hung, and thoughts of what Christmas truly means fills my mind. A time of reflection of our Savior, a time of peace. Yet the true meaning of Christmas sometimes slips away as commercials and the &#8220;me&#8221; mentality take its place. We write lists of what <strong>we</strong> want, and what will make <strong>us</strong> feel special, but even better than the gifts we receive are the gifts we give, as we are reminded that we were already given the best gift of all when Jesus came to earth for our salvation.</p>
 <p>I&#8217;m going to be honest with you, there was a tone in my house and it wasn&#8217;t all warm and fuzzy&#8230; it stunk, it was one of ungratefulness and entitlement. As I looked at my children with sadness in my heart, I thought to myself, &#8220;no, this will not be.&#8221;</p>

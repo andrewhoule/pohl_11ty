@@ -7,10 +7,10 @@ date: "2011-09-01T14:12:14+00:00"
 modified: "2015-01-16T18:12:12+00:00"
 author: "Grace Houle"
 excerpt: "Resentment, gossip, pain, and anger, these are some of the effects of unresolved conflict. Hurt by those we love, whether it be intentionally or unintentionally, our emotions stew up inside us. Instead of confronting our accuser we either talk to everyone but the one who hurt us, or bottle up the hurt convincing ourselves we should not have been hurt in the first place. Where does this get us? No where."
-featuredImage: "/wp-content/uploads/2011/09/conflict.jpg"
+featuredImage: "/assets/uploads/2011/09/conflict.jpg"
 featuredCaption: ""
 categories: [{"id":130,"name":"Conflict","slug":"conflict","description":"","parentId":282,"parentName":"Advice","parentSlug":"advice","bannerImage":null,"url":"/category/conflict/"}]
-displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/advice.jpg","url":"/category/advice/"}
+displayCategory: {"id":282,"name":"Advice","slug":"advice","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/advice.jpg","url":"/category/advice/"}
 ---
 <p class="intro">Resentment, gossip, pain, and anger, these are some of the effects of unresolved conflict. Hurt by those we love, whether it be intentionally or unintentionally, our emotions stew up inside us. Instead of confronting our accuser we either talk to everyone but the one who hurt us, or bottle up the hurt convincing ourselves we should not have been hurt in the first place. Where does this get us? No where.</p>
 <p>In an ideal world others wouldn’t hurt us, and we would not hurt others, but that is not reality. So how should we deal with this conflict when the hurt arises?</p>

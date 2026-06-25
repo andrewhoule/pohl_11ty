@@ -7,10 +7,10 @@ date: "2012-11-05T19:11:45+00:00"
 modified: "2015-01-13T03:04:13+00:00"
 author: "Grace Houle"
 excerpt: "Financial distress, natural disasters, death, illness, the list goes on of the tragedies that happen on a daily basis, yet, if we aren't personally involved with these tragedies, does it really affect us? We sit comfortable in our cozy homes with our bellies filled and our priorities set. We plan for the future and try not to dwell on the pain that others are experiencing. Perhaps we say a prayer or watch the news with sympathy in our hearts. Sometimes, if we are directly affected we make changes. Perhaps we start praying fervently over fear of the unexpected, but as weeks and months pass so does our urgency to change. Why does it take so much for our heart to be softened, to change our actions before negative consequences ensue, or to have compassion on those dealing with tragedies enough to become involved?"
-featuredImage: "/wp-content/uploads/2012/11/SplitShire_9993-800x500.jpg"
+featuredImage: "/assets/uploads/2012/11/SplitShire_9993-800x500.jpg"
 featuredCaption: ""
 categories: [{"id":78,"name":"Love","slug":"love","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/love/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Financial distress, natural disasters, death, illness, the list goes on of the tragedies that happen on a daily basis, yet, if we aren&#8217;t personally involved with these tragedies, does it really affect us? We sit comfortable in our cozy homes with our bellies filled and our priorities set. We plan for the future and try not to dwell on the pain that others are experiencing. Perhaps we say a prayer or watch the news with sympathy in our hearts. Sometimes, if we are directly affected we make changes. Perhaps we start praying fervently over fear of the unexpected, but as weeks and months pass so does our urgency to change. Why does it take so much for our heart to be softened, to change our actions before negative consequences ensue, or to have compassion on those dealing with tragedies enough to become involved?</p>
 <h2>My Precious Time</h2>

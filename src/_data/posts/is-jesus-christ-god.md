@@ -7,10 +7,10 @@ date: "2011-03-30T13:52:14+00:00"
 modified: "2015-03-18T13:56:25+00:00"
 author: "Grace Houle"
 excerpt: "Who is the man who walked the earth many years ago? Some claim he was a prophet, a good teacher, a moral man. Others claim He was indeed the Son of God, but not actually God. What is the truth?"
-featuredImage: "/wp-content/uploads/2011/03/crown-of-thorns.jpg"
+featuredImage: "/assets/uploads/2011/03/crown-of-thorns.jpg"
 featuredCaption: ""
 categories: [{"id":40,"name":"Salvation","slug":"salvation","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/salvation/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p>Who is the man who walked the earth many years ago? Some claim He was a prophet, a good teacher, a moral man, but was He actually God? What is the truth? It is confusing to wrap our head around this complex topic, known as the Trinity. For today, we are focusing on factual biblical references that validate the claim of Jesus deity.</p>
 <blockquote><p>I, <i>even</i> I, <i>am</i> the LORD; and beside me <i>there is</i> no Saviour. I have declared, and have saved, and I have shewed, when <i>there was </i>no strange <i>god</i> among you: therefore ye <i>are</i> my witnesses, saith the LORD, that I <i>am</i> God.</p></blockquote>

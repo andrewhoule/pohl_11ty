@@ -7,10 +7,10 @@ date: "2026-05-23T16:38:26+00:00"
 modified: "2026-05-23T18:04:40+00:00"
 author: "Grace Houle"
 excerpt: "This past year has been difficult, tough&#8230; ugly, even. You know the kind I am talking about? When life brings out of you a whole new side of ugly that you didn&#8217;t even know existed. It took me off guard. I already had quite the armor; I had learned to be resilient&#8230; until I wasn&#8217;t. I had learned strength through forgiveness. I valued turning the other cheek. I walked this path; it wasn&#8217;t new to me to be hurt and forgive."
-featuredImage: "/wp-content/uploads/2026/06/313H-1.jpg"
+featuredImage: "/assets/uploads/2026/06/313H-1.jpg"
 featuredCaption: ""
 categories: [{"id":317,"name":"Purpose","slug":"purpose-faith","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/purpose-faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">This past year has been tough, ugly tough. You know the kind I am talking about? When life brings out of you a whole new side of ugly that you didn&#8217;t even know existed. It took me off guard. I thought I had quite the armor; I had learned to be resilient&#8230; until I wasn&#8217;t. I had learned strength through forgiveness, and valued turning the other cheek. I walked this path, and yet God reminded me that there was more for me to learn.</p>
 <p>As I faced this obstacle in my life, I was dumbfounded; completely kicked on my backside. So, what to do when you&#8217;re left speechless? I put up my surrender flag for a while. Friends, family, life, things that once came so naturally to me, I felt like a complete failure at. I could not maintain a footing on the small ledge I was on.</p>
@@ -21,7 +21,7 @@ displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parent
 <p>And we know that all things work together for good to them that love God, to them who are the called according to His purpose.</p>
 </blockquote>
 <p><cite>Romans 8:28</cite></p>
-<p><img loading="lazy" decoding="async" class="alignright size-full wp-image-6085" src="/wp-content/uploads/2016/06/landscape-nature-sunset-trees.jpg" alt="landscape-nature-sunset-trees" width="1000" height="563" srcset="/wp-content/uploads/2016/06/landscape-nature-sunset-trees.jpg 1000w, /wp-content/uploads/2016/06/landscape-nature-sunset-trees-400x225.jpg 400w, /wp-content/uploads/2016/06/landscape-nature-sunset-trees-768x432.jpg 768w, /wp-content/uploads/2016/06/landscape-nature-sunset-trees-750x422.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></p>
+<p><img loading="lazy" decoding="async" class="alignright size-full wp-image-6085" src="/assets/uploads/2016/06/landscape-nature-sunset-trees.jpg" alt="landscape-nature-sunset-trees" width="1000" height="563" srcset="/assets/uploads/2016/06/landscape-nature-sunset-trees.jpg 1000w, /assets/uploads/2016/06/landscape-nature-sunset-trees-400x225.jpg 400w, /assets/uploads/2016/06/landscape-nature-sunset-trees-768x432.jpg 768w, /assets/uploads/2016/06/landscape-nature-sunset-trees-750x422.jpg 750w" sizes="auto, (max-width: 1000px) 100vw, 1000px" /></p>
 <p>Seasons&#8230;</p>
 <blockquote>
 <p>To every thing there is a season, and a time to every purpose under the heaven.</p>

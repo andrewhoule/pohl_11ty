@@ -7,10 +7,10 @@ date: "2013-04-26T17:36:23+00:00"
 modified: "2015-01-15T02:33:32+00:00"
 author: "Grace Houle"
 excerpt: "It doesn’t take a rocket scientist to realize that wives are important. We have big shoes to fill when we say, “I do” and step into this role as a “helpmeet” with our spouses. In the Bible, there were clearly woman who helped their husbands, and those who hurt them."
-featuredImage: "/wp-content/uploads/2013/04/IMG_1659.jpg"
+featuredImage: "/assets/uploads/2013/04/IMG_1659.jpg"
 featuredCaption: ""
-categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
-displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/family-2.jpg","url":"/category/family/"}
+categories: [{"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"},{"id":283,"name":"Unity","slug":"unity","description":"","parentId":102,"parentName":"Family","parentSlug":"family","bannerImage":null,"url":"/category/unity/"}]
+displayCategory: {"id":102,"name":"Family","slug":"family","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/family-2.jpg","url":"/category/family/"}
 ---
 <p><em>Helpmeet</em>: A companion or helper</p>
 <p>It doesn’t take a rocket scientist to realize that wives are important. We have big shoes to fill when we say, “I do” and step into this role as a “helpmeet” with our spouses. In the Bible, there were clearly woman who helped their husbands, and those who hurt them.</p>

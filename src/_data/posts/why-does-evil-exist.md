@@ -10,7 +10,7 @@ excerpt: "There is no simple answer to this complex question. I am attempting to
 featuredImage: null
 featuredCaption: null
 categories: [{"id":114,"name":"Evil","slug":"evil","description":"","parentId":279,"parentName":"Truth","parentSlug":"truth","bannerImage":null,"url":"/category/evil/"}]
-displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/truth.jpg","url":"/category/truth/"}
+displayCategory: {"id":279,"name":"Truth","slug":"truth","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/truth.jpg","url":"/category/truth/"}
 ---
 <p class="intro">There is no simple answer to this complex question. I am attempting to answer it the best I know how, and that is through the knowledge provided in the Bible. We may never completely understand it because it may be beyond our comprehension. But one thing we can be confident in, is that God is good, and God hates evil too.</p>
 <blockquote><p>For the LORD is good; his mercy is everlasting; and his truth endures to all generations.</p></blockquote>

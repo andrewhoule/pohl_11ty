@@ -7,10 +7,10 @@ date: "2015-04-20T01:19:41+00:00"
 modified: "2016-04-29T00:44:42+00:00"
 author: "Grace Houle"
 excerpt: "Little clothes, big clothes, I fold the basketfuls of laundry that are always awaiting me. The dishes that once enveloped my sink are put away. The house is picked up to the best it will be for now. There has been many..."
-featuredImage: "/wp-content/uploads/2015/04/filling-your-role.jpg"
+featuredImage: "/assets/uploads/2015/04/filling-your-role.jpg"
 featuredCaption: ""
-categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":317,"name":"Purpose","slug":"purpose-faith","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/purpose-faith/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+categories: [{"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"},{"id":317,"name":"Purpose","slug":"purpose-faith","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/purpose-faith/"}]
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">Little clothes, big clothes, I fold the basketfuls of laundry that are always awaiting me. The dishes that once enveloped my sink are put away. The house is picked up to the best it will be for now. There has been many opportunities to teach and love my kiddos, and the day is not done.</p>
 <p>My husband is working hard outside, preparing for Spring, shopping for supplies to fix the house, and marking things off the endless checklist.</p>

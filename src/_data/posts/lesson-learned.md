@@ -7,10 +7,10 @@ date: "2012-12-06T16:06:18+00:00"
 modified: "2015-01-12T04:07:38+00:00"
 author: "Grace Houle"
 excerpt: "I was heading down the road in our 2006 Toyota Sienna with my precious cargo in tow. Timmy and Izzy were in their car seats, and Jayden was in my womb. Thoughts of the day were filling my head, as I traveled the same route I had driven many times before. It is kind of scary how methodical driving the same route becomes. Stop sign, go, stop light, go. Sometimes we are kind of on auto pilot as we travel the all too familiar paths."
-featuredImage: "/wp-content/uploads/2012/12/2012-07-11-11.29.42.jpg"
+featuredImage: "/assets/uploads/2012/12/2012-07-11-11.29.42.jpg"
 featuredCaption: ""
 categories: [{"id":201,"name":"Mercy","slug":"mercy-2","description":"","parentId":11,"parentName":"Faith","parentSlug":"faith","bannerImage":null,"url":"/category/mercy-2/"}]
-displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"http://pouredouthislove.com/wp-content/uploads/2015/01/faith.jpg","url":"/category/faith/"}
+displayCategory: {"id":11,"name":"Faith","slug":"faith","description":"","parentId":null,"parentName":null,"parentSlug":null,"bannerImage":"/assets/uploads/2015/01/faith.jpg","url":"/category/faith/"}
 ---
 <p class="intro">I was heading down the road in our 2006 Toyota Sienna with my precious cargo in tow. Timmy and Izzy were in their car seats, and Jayden was in my womb. Thoughts of the day were filling my head, as I traveled the same route I had driven many times before. It is kind of scary how methodical driving the same route becomes. Stop sign, go, stop light, go. Sometimes we are kind of on auto pilot as we travel the all too familiar paths.</p>
 <p>This day was special, my daughter Isabella (whom we nicknamed Izzy) had just had her appointment at the neurodevelopment clinic. She was 6 weeks premature and had to spend a month at the NICU, so when they told us she was caught up developmentally with those her age, I was so excited! My heart was so full. I was practically singing in the van.</p>
