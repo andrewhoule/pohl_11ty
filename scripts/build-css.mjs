@@ -1,5 +1,6 @@
 import fs from "node:fs/promises";
 import { watch } from "node:fs";
+import os from "node:os";
 import path from "node:path";
 import process from "node:process";
 import postcss from "postcss";
@@ -9,7 +10,9 @@ import cssnano from "cssnano";
 
 const input = "assets/css/main.css";
 const output = "dist/assets/css/app.css";
+const servedOutput = "_site/assets/css/app.css";
 const watchDir = "assets/css";
+const reloadFile = path.join(os.tmpdir(), "pohl_11ty-css-reload.txt");
 const isWatch = process.argv.includes("--watch");
 
 async function buildCss() {
@@ -33,6 +36,17 @@ async function buildCss() {
 
   if (result.map) {
     await fs.writeFile(`${output}.map`, result.map.toString());
+  }
+
+  if (isWatch) {
+    await fs.mkdir(path.dirname(servedOutput), { recursive: true });
+    await fs.writeFile(servedOutput, result.css);
+
+    if (result.map) {
+      await fs.writeFile(`${servedOutput}.map`, result.map.toString());
+    }
+
+    await fs.writeFile(reloadFile, `${Date.now()}\n`);
   }
 }
 

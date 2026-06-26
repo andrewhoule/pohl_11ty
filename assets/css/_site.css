@@ -1,1 +1,44 @@
-html{position:relative;min-height:100%}body.home{background:#f7f7f7}img{display:block;height:auto;max-width:100%}img#wpstats{display:none}hr{background:#b3b3b3;border:none;position:relative;margin:40px auto;margin:2.5rem auto;padding:0;height:1px;height:0.0625rem;width:40%}@media (max-width: 37.5rem){hr{width:100%}}::selection{background:#094f66;color:#fff}::-moz-selection{background:#094f66;color:#fff}
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body.home {
+  background: #f7f7f7;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+img#wpstats {
+  display: none;
+}
+
+hr {
+  background: #b3b3b3;
+  border: none;
+  height: 0.0625rem;
+  margin: 2.5rem auto;
+  padding: 0;
+  position: relative;
+  width: 40%;
+}
+
+@media (max-width: 37.5rem) {
+  hr {
+    width: 100%;
+  }
+}
+
+::selection {
+  background: #094f66;
+  color: #fff;
+}
+
+::-moz-selection {
+  background: #094f66;
+  color: #fff;
+}

@@ -7,7 +7,7 @@
     "css": "node scripts/build-css.mjs",
     "css:watch": "node scripts/build-css.mjs --watch",
     "build": "npm run css && eleventy",
-    "start": "npm run css && node scripts/start-eleventy.mjs"
+    "start": "node scripts/start-eleventy.mjs"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.2",

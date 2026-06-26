@@ -1,3 +1,6 @@
+import os from "node:os";
+import path from "node:path";
+
 function stripHtml(value = "") {
   return value
     .replace(/<style[\s\S]*?<\/style>/gi, "")
@@ -12,6 +15,8 @@ function normalizeUrl(value = "") {
 }
 
 export default function (eleventyConfig) {
+  const cssReloadFile = path.join(os.tmpdir(), "pohl_11ty-css-reload.txt");
+
   eleventyConfig.addGlobalData("build", {
     year: new Date().getFullYear()
   });
@@ -30,6 +35,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "assets/favicon.ico": "favicon.ico"
   });
+  eleventyConfig.addWatchTarget(cssReloadFile);
 
   eleventyConfig.addFilter("postDate", (value) => {
     if (!value) {

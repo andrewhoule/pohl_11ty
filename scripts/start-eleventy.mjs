@@ -1,7 +1,14 @@
 import { spawn } from "node:child_process";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
 import process from "node:process";
 
+const cssReloadFile = path.join(os.tmpdir(), "pohl_11ty-css-reload.txt");
 const npmCommand = process.platform === "win32" ? "npm.cmd" : "npm";
+
+fs.writeFileSync(cssReloadFile, `${Date.now()}\n`);
+
 const css = spawn(npmCommand, ["run", "css:watch"], {
   shell: process.platform === "win32",
   stdio: ["inherit", "pipe", "pipe"]
