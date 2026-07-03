@@ -55,6 +55,4 @@ content:
         label: Description
         type: rich-text
         options:
-          format: html
           media: false
-          switcher: true
