@@ -1,6 +1,6 @@
 ---
 id: 9
-name: What Women Fear Test
+name: What Women Fear
 slug: what-women-fear
 link: http://www.amazon.com/gp/product/B005IS5CQG/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B005IS5CQG&linkCode=as2&tag=myi0a-20
 author: Angie Smith
