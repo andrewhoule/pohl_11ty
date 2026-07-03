@@ -57,4 +57,4 @@ content:
         options:
           format: html
           media: false
-          switcher: false
+          switcher: true
