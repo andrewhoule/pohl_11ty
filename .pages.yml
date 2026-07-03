@@ -1,0 +1,56 @@
+media:
+  input: assets/uploads
+  output: /assets/uploads
+
+content:
+  - name: books
+    label: Books
+    type: collection
+    path: src/_data/books
+    format: yaml-frontmatter
+    filename: "{slug}.md"
+    view:
+      fields: [name, author, displayOrder]
+      primary: name
+      sort: [displayOrder, name]
+      default:
+        sort: displayOrder
+        order: asc
+    fields:
+      - name: id
+        label: ID
+        type: number
+
+      - name: name
+        label: Book Title
+        type: string
+        required: true
+
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+
+      - name: link
+        label: Purchase Link
+        type: string
+
+      - name: author
+        label: Author
+        type: string
+
+      - name: displayOrder
+        label: Display Order
+        type: number
+        description: Lower numbers appear first on the bookshelf.
+
+      - name: image
+        label: Cover Image
+        type: image
+        options:
+          path: assets/uploads
+          extensions: [jpg, jpeg, png, webp]
+
+      - name: body
+        label: Description
+        type: rich-text
